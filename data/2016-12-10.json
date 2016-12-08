@@ -1,5 +1,6 @@
 {
 	"date": "2016-12-10",
+  "dayOfWeek": "Saturday",
 	"routes": [
 		{
 			"driverId": "driver_0",
