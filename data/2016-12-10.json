@@ -1,6 +1,6 @@
 {
 	"date": "2016-12-10",
-  "dayOfWeek": "Saturday",
+	"dayOfWeek": "Saturday",
 	"routes": [
 		{
 			"driverId": "driver_0",
@@ -11,213 +11,225 @@
 				},
 				{
 					"stopId": "stop_0",
-					"distanceToPrevious": 13,
-					"arrivalTime": "08:15"
+					"distanceToPrevious": 11,
+					"arrivalTime": "08:13",
+					"drivingTimeFromPrevious": 13
 				},
 				{
 					"stopId": "stop_1",
-					"distanceToPrevious": 9,
-					"arrivalTime": "08:25"
+					"distanceToPrevious": 8,
+					"arrivalTime": "08:22",
+					"drivingTimeFromPrevious": 9
 				},
 				{
 					"stopId": "stop_2",
-					"distanceToPrevious": 7,
-					"arrivalTime": "08:32"
+					"distanceToPrevious": 10,
+					"arrivalTime": "08:32",
+					"drivingTimeFromPrevious": 10
 				},
 				{
 					"stopId": "stop_3",
-					"distanceToPrevious": 12,
-					"arrivalTime": "08:45"
+					"distanceToPrevious": 9,
+					"arrivalTime": "08:41",
+					"drivingTimeFromPrevious": 9
 				},
 				{
 					"stopId": "stop_4",
-					"distanceToPrevious": 12,
-					"arrivalTime": "08:59"
+					"distanceToPrevious": 9,
+					"arrivalTime": "08:52",
+					"drivingTimeFromPrevious": 11
 				},
 				{
 					"stopId": "stop_5",
 					"distanceToPrevious": 9,
-					"arrivalTime": "09:09"
+					"arrivalTime": "09:01",
+					"drivingTimeFromPrevious": 9
 				},
 				{
 					"stopId": "stop_6",
-					"distanceToPrevious": 7,
-					"arrivalTime": "09:18"
+					"distanceToPrevious": 11,
+					"arrivalTime": "09:13",
+					"drivingTimeFromPrevious": 12
 				},
 				{
 					"stopId": "stop_7",
-					"distanceToPrevious": 9,
-					"arrivalTime": "09:29"
+					"distanceToPrevious": 10,
+					"arrivalTime": "09:25",
+					"drivingTimeFromPrevious": 12
 				},
 				{
 					"stopId": "stop_8",
-					"distanceToPrevious": 7,
-					"arrivalTime": "09:37"
+					"distanceToPrevious": 8,
+					"arrivalTime": "09:34",
+					"drivingTimeFromPrevious": 9
 				},
 				{
 					"stopId": "stop_9",
-					"distanceToPrevious": 8,
-					"arrivalTime": "09:46"
+					"distanceToPrevious": 10,
+					"arrivalTime": "09:46",
+					"drivingTimeFromPrevious": 12
 				},
 				{
 					"stopId": "stop_10",
 					"distanceToPrevious": 8,
-					"arrivalTime": "09:54"
+					"arrivalTime": "09:56",
+					"drivingTimeFromPrevious": 10
 				},
 				{
 					"stopId": "stop_11",
-					"distanceToPrevious": 8,
-					"arrivalTime": "10:03"
+					"distanceToPrevious": 10,
+					"arrivalTime": "10:07",
+					"drivingTimeFromPrevious": 11
 				},
 				{
 					"stopId": "stop_12",
-					"distanceToPrevious": 7,
-					"arrivalTime": "10:10"
+					"distanceToPrevious": 9,
+					"arrivalTime": "10:17",
+					"drivingTimeFromPrevious": 10
 				},
 				{
 					"stopId": "stop_13",
-					"distanceToPrevious": 12,
-					"arrivalTime": "10:24"
+					"distanceToPrevious": 10,
+					"arrivalTime": "10:29",
+					"drivingTimeFromPrevious": 12
 				},
 				{
 					"stopId": "stop_14",
-					"distanceToPrevious": 8,
-					"arrivalTime": "10:33"
+					"distanceToPrevious": 10,
+					"arrivalTime": "10:42",
+					"drivingTimeFromPrevious": 13
 				},
 				{
 					"stopId": "stop_15",
-					"distanceToPrevious": 7,
-					"arrivalTime": "10:41"
+					"distanceToPrevious": 13,
+					"arrivalTime": "10:58",
+					"drivingTimeFromPrevious": 16
 				},
 				{
 					"stopId": "stop_16",
-					"distanceToPrevious": 10,
-					"arrivalTime": "10:52"
+					"distanceToPrevious": 7,
+					"arrivalTime": "11:06",
+					"drivingTimeFromPrevious": 8
 				},
 				{
 					"stopId": "stop_17",
-					"distanceToPrevious": 11,
-					"arrivalTime": "11:04"
+					"distanceToPrevious": 9,
+					"arrivalTime": "11:15",
+					"drivingTimeFromPrevious": 9
 				},
 				{
 					"stopId": "stop_18",
-					"distanceToPrevious": 10,
-					"arrivalTime": "11:17"
+					"distanceToPrevious": 9,
+					"arrivalTime": "11:25",
+					"drivingTimeFromPrevious": 10
 				},
 				{
 					"stopId": "stop_19",
 					"distanceToPrevious": 10,
-					"arrivalTime": "11:28"
+					"arrivalTime": "11:36",
+					"drivingTimeFromPrevious": 11
 				},
 				{
 					"stopId": "stop_20",
-					"distanceToPrevious": 12,
-					"arrivalTime": "11:43"
+					"distanceToPrevious": 8,
+					"arrivalTime": "11:45",
+					"drivingTimeFromPrevious": 9
 				},
 				{
 					"stopId": "stop_21",
-					"distanceToPrevious": 12,
-					"arrivalTime": "11:58"
+					"distanceToPrevious": 9,
+					"arrivalTime": "11:56",
+					"drivingTimeFromPrevious": 11
 				},
 				{
 					"stopId": "stop_22",
-					"distanceToPrevious": 10,
-					"arrivalTime": "12:08"
+					"distanceToPrevious": 9,
+					"arrivalTime": "12:06",
+					"drivingTimeFromPrevious": 10
 				},
 				{
 					"stopId": "stop_23",
-					"distanceToPrevious": 8,
-					"arrivalTime": "12:17"
+					"distanceToPrevious": 10,
+					"arrivalTime": "12:18",
+					"drivingTimeFromPrevious": 12
 				},
 				{
 					"stopId": "stop_24",
-					"distanceToPrevious": 12,
-					"arrivalTime": "12:32"
+					"distanceToPrevious": 11,
+					"arrivalTime": "12:31",
+					"drivingTimeFromPrevious": 13
 				},
 				{
 					"stopId": "stop_25",
-					"distanceToPrevious": 8,
-					"arrivalTime": "12:41"
+					"distanceToPrevious": 10,
+					"arrivalTime": "12:42",
+					"drivingTimeFromPrevious": 11
 				},
 				{
 					"stopId": "stop_26",
-					"distanceToPrevious": 11,
-					"arrivalTime": "12:54"
+					"distanceToPrevious": 9,
+					"arrivalTime": "12:53",
+					"drivingTimeFromPrevious": 11
 				},
 				{
 					"stopId": "stop_27",
-					"distanceToPrevious": 7,
-					"arrivalTime": "13:01"
+					"distanceToPrevious": 8,
+					"arrivalTime": "13:03",
+					"drivingTimeFromPrevious": 10
 				},
 				{
 					"stopId": "stop_28",
 					"distanceToPrevious": 9,
-					"arrivalTime": "13:12"
+					"arrivalTime": "13:13",
+					"drivingTimeFromPrevious": 10
 				},
 				{
 					"stopId": "stop_29",
-					"distanceToPrevious": 8,
-					"arrivalTime": "13:20"
+					"distanceToPrevious": 10,
+					"arrivalTime": "13:26",
+					"drivingTimeFromPrevious": 13
 				},
 				{
 					"stopId": "stop_30",
-					"distanceToPrevious": 10,
-					"arrivalTime": "13:31"
+					"distanceToPrevious": 9,
+					"arrivalTime": "13:35",
+					"drivingTimeFromPrevious": 9
 				},
 				{
 					"stopId": "stop_31",
-					"distanceToPrevious": 8,
-					"arrivalTime": "13:40"
+					"distanceToPrevious": 9,
+					"arrivalTime": "13:45",
+					"drivingTimeFromPrevious": 10
 				},
 				{
 					"stopId": "stop_32",
-					"distanceToPrevious": 12,
-					"arrivalTime": "13:55"
+					"distanceToPrevious": 11,
+					"arrivalTime": "13:57",
+					"drivingTimeFromPrevious": 12
 				},
 				{
 					"stopId": "stop_33",
-					"distanceToPrevious": 6,
-					"arrivalTime": "14:02"
+					"distanceToPrevious": 8,
+					"arrivalTime": "14:06",
+					"drivingTimeFromPrevious": 9
 				},
 				{
 					"stopId": "stop_34",
-					"distanceToPrevious": 10,
-					"arrivalTime": "14:13"
+					"distanceToPrevious": 7,
+					"arrivalTime": "14:14",
+					"drivingTimeFromPrevious": 8
 				},
 				{
 					"stopId": "stop_35",
-					"distanceToPrevious": 8,
-					"arrivalTime": "14:22"
+					"distanceToPrevious": 11,
+					"arrivalTime": "14:26",
+					"drivingTimeFromPrevious": 12
 				},
 				{
 					"stopId": "stop_36",
 					"distanceToPrevious": 8,
-					"arrivalTime": "14:32"
-				},
-				{
-					"stopId": "stop_37",
-					"distanceToPrevious": 12,
-					"arrivalTime": "14:47"
-				},
-				{
-					"stopId": "stop_38",
-					"distanceToPrevious": 12,
-					"arrivalTime": "15:00"
-				},
-				{
-					"stopId": "stop_39",
-					"distanceToPrevious": 9,
-					"arrivalTime": "15:10"
-				},
-				{
-					"stopId": "stop_40",
-					"distanceToPrevious": 11,
-					"arrivalTime": "15:22"
-				},
-				{
-					"stopId": "stop_41",
-					"distanceToPrevious": 10,
-					"arrivalTime": "15:33"
+					"arrivalTime": "14:36",
+					"drivingTimeFromPrevious": 10
 				}
 			]
 		},
@@ -230,208 +242,267 @@
 				},
 				{
 					"stopId": "stop_0",
-					"distanceToPrevious": 10,
-					"arrivalTime": "08:12"
+					"distanceToPrevious": 8,
+					"arrivalTime": "08:10",
+					"drivingTimeFromPrevious": 10
 				},
 				{
 					"stopId": "stop_1",
-					"distanceToPrevious": 9,
-					"arrivalTime": "08:22"
+					"distanceToPrevious": 6,
+					"arrivalTime": "08:17",
+					"drivingTimeFromPrevious": 7
 				},
 				{
 					"stopId": "stop_2",
-					"distanceToPrevious": 10,
-					"arrivalTime": "08:34"
+					"distanceToPrevious": 4,
+					"arrivalTime": "08:22",
+					"drivingTimeFromPrevious": 5
 				},
 				{
 					"stopId": "stop_3",
-					"distanceToPrevious": 6,
-					"arrivalTime": "08:41"
+					"distanceToPrevious": 8,
+					"arrivalTime": "08:32",
+					"drivingTimeFromPrevious": 10
 				},
 				{
 					"stopId": "stop_4",
-					"distanceToPrevious": 7,
-					"arrivalTime": "08:49"
+					"distanceToPrevious": 8,
+					"arrivalTime": "08:41",
+					"drivingTimeFromPrevious": 9
 				},
 				{
 					"stopId": "stop_5",
-					"distanceToPrevious": 12,
-					"arrivalTime": "09:03"
+					"distanceToPrevious": 9,
+					"arrivalTime": "08:50",
+					"drivingTimeFromPrevious": 9
 				},
 				{
 					"stopId": "stop_6",
-					"distanceToPrevious": 8,
-					"arrivalTime": "09:12"
+					"distanceToPrevious": 11,
+					"arrivalTime": "09:04",
+					"drivingTimeFromPrevious": 14
 				},
 				{
 					"stopId": "stop_7",
-					"distanceToPrevious": 13,
-					"arrivalTime": "09:26"
+					"distanceToPrevious": 10,
+					"arrivalTime": "09:16",
+					"drivingTimeFromPrevious": 12
 				},
 				{
 					"stopId": "stop_8",
-					"distanceToPrevious": 9,
-					"arrivalTime": "09:37"
+					"distanceToPrevious": 8,
+					"arrivalTime": "09:25",
+					"drivingTimeFromPrevious": 9
 				},
 				{
 					"stopId": "stop_9",
-					"distanceToPrevious": 11,
-					"arrivalTime": "09:51"
+					"distanceToPrevious": 8,
+					"arrivalTime": "09:33",
+					"drivingTimeFromPrevious": 8
 				},
 				{
 					"stopId": "stop_10",
-					"distanceToPrevious": 8,
-					"arrivalTime": "09:59"
+					"distanceToPrevious": 9,
+					"arrivalTime": "09:42",
+					"drivingTimeFromPrevious": 9
 				},
 				{
 					"stopId": "stop_11",
-					"distanceToPrevious": 10,
-					"arrivalTime": "10:10"
+					"distanceToPrevious": 12,
+					"arrivalTime": "09:55",
+					"drivingTimeFromPrevious": 13
 				},
 				{
 					"stopId": "stop_12",
-					"distanceToPrevious": 7,
-					"arrivalTime": "10:18"
+					"distanceToPrevious": 10,
+					"arrivalTime": "10:06",
+					"drivingTimeFromPrevious": 11
 				},
 				{
 					"stopId": "stop_13",
 					"distanceToPrevious": 10,
-					"arrivalTime": "10:31"
+					"arrivalTime": "10:18",
+					"drivingTimeFromPrevious": 12
 				},
 				{
 					"stopId": "stop_14",
 					"distanceToPrevious": 5,
-					"arrivalTime": "10:37"
+					"arrivalTime": "10:24",
+					"drivingTimeFromPrevious": 6
 				},
 				{
 					"stopId": "stop_15",
-					"distanceToPrevious": 6,
-					"arrivalTime": "10:44"
+					"distanceToPrevious": 9,
+					"arrivalTime": "10:33",
+					"drivingTimeFromPrevious": 9
 				},
 				{
 					"stopId": "stop_16",
 					"distanceToPrevious": 8,
-					"arrivalTime": "10:52"
+					"arrivalTime": "10:42",
+					"drivingTimeFromPrevious": 9
 				},
 				{
 					"stopId": "stop_17",
-					"distanceToPrevious": 8,
-					"arrivalTime": "11:00"
+					"distanceToPrevious": 11,
+					"arrivalTime": "10:54",
+					"drivingTimeFromPrevious": 12
 				},
 				{
 					"stopId": "stop_18",
-					"distanceToPrevious": 11,
-					"arrivalTime": "11:14"
+					"distanceToPrevious": 8,
+					"arrivalTime": "11:04",
+					"drivingTimeFromPrevious": 10
 				},
 				{
 					"stopId": "stop_19",
-					"distanceToPrevious": 12,
-					"arrivalTime": "11:27"
+					"distanceToPrevious": 8,
+					"arrivalTime": "11:13",
+					"drivingTimeFromPrevious": 9
 				},
 				{
 					"stopId": "stop_20",
-					"distanceToPrevious": 11,
-					"arrivalTime": "11:39"
+					"distanceToPrevious": 7,
+					"arrivalTime": "11:20",
+					"drivingTimeFromPrevious": 7
 				},
 				{
 					"stopId": "stop_21",
-					"distanceToPrevious": 8,
-					"arrivalTime": "11:48"
+					"distanceToPrevious": 11,
+					"arrivalTime": "11:33",
+					"drivingTimeFromPrevious": 13
 				},
 				{
 					"stopId": "stop_22",
 					"distanceToPrevious": 10,
-					"arrivalTime": "11:59"
+					"arrivalTime": "11:45",
+					"drivingTimeFromPrevious": 12
 				},
 				{
 					"stopId": "stop_23",
-					"distanceToPrevious": 7,
-					"arrivalTime": "12:07"
+					"distanceToPrevious": 10,
+					"arrivalTime": "11:56",
+					"drivingTimeFromPrevious": 11
 				},
 				{
 					"stopId": "stop_24",
-					"distanceToPrevious": 12,
-					"arrivalTime": "12:20"
+					"distanceToPrevious": 7,
+					"arrivalTime": "12:05",
+					"drivingTimeFromPrevious": 9
 				},
 				{
 					"stopId": "stop_25",
-					"distanceToPrevious": 9,
-					"arrivalTime": "12:30"
+					"distanceToPrevious": 10,
+					"arrivalTime": "12:17",
+					"drivingTimeFromPrevious": 12
 				},
 				{
 					"stopId": "stop_26",
-					"distanceToPrevious": 8,
-					"arrivalTime": "12:39"
+					"distanceToPrevious": 9,
+					"arrivalTime": "12:28",
+					"drivingTimeFromPrevious": 11
 				},
 				{
 					"stopId": "stop_27",
-					"distanceToPrevious": 6,
-					"arrivalTime": "12:45"
+					"distanceToPrevious": 8,
+					"arrivalTime": "12:38",
+					"drivingTimeFromPrevious": 10
 				},
 				{
 					"stopId": "stop_28",
-					"distanceToPrevious": 8,
-					"arrivalTime": "12:54"
+					"distanceToPrevious": 10,
+					"arrivalTime": "12:50",
+					"drivingTimeFromPrevious": 12
 				},
 				{
 					"stopId": "stop_29",
-					"distanceToPrevious": 9,
-					"arrivalTime": "13:04"
+					"distanceToPrevious": 8,
+					"arrivalTime": "12:58",
+					"drivingTimeFromPrevious": 8
 				},
 				{
 					"stopId": "stop_30",
-					"distanceToPrevious": 7,
-					"arrivalTime": "13:11"
+					"distanceToPrevious": 11,
+					"arrivalTime": "13:10",
+					"drivingTimeFromPrevious": 12
 				},
 				{
 					"stopId": "stop_31",
-					"distanceToPrevious": 14,
-					"arrivalTime": "13:28"
+					"distanceToPrevious": 11,
+					"arrivalTime": "13:22",
+					"drivingTimeFromPrevious": 12
 				},
 				{
 					"stopId": "stop_32",
 					"distanceToPrevious": 8,
-					"arrivalTime": "13:37"
+					"arrivalTime": "13:30",
+					"drivingTimeFromPrevious": 8
 				},
 				{
 					"stopId": "stop_33",
-					"distanceToPrevious": 6,
-					"arrivalTime": "13:44"
+					"distanceToPrevious": 10,
+					"arrivalTime": "13:42",
+					"drivingTimeFromPrevious": 12
 				},
 				{
 					"stopId": "stop_34",
-					"distanceToPrevious": 7,
-					"arrivalTime": "13:51"
+					"distanceToPrevious": 12,
+					"arrivalTime": "13:55",
+					"drivingTimeFromPrevious": 13
 				},
 				{
 					"stopId": "stop_35",
-					"distanceToPrevious": 9,
-					"arrivalTime": "14:01"
+					"distanceToPrevious": 10,
+					"arrivalTime": "14:06",
+					"drivingTimeFromPrevious": 11
 				},
 				{
 					"stopId": "stop_36",
-					"distanceToPrevious": 9,
-					"arrivalTime": "14:12"
+					"distanceToPrevious": 12,
+					"arrivalTime": "14:19",
+					"drivingTimeFromPrevious": 13
 				},
 				{
 					"stopId": "stop_37",
-					"distanceToPrevious": 5,
-					"arrivalTime": "14:18"
+					"distanceToPrevious": 9,
+					"arrivalTime": "14:30",
+					"drivingTimeFromPrevious": 11
 				},
 				{
 					"stopId": "stop_38",
-					"distanceToPrevious": 10,
-					"arrivalTime": "14:30"
+					"distanceToPrevious": 9,
+					"arrivalTime": "14:41",
+					"drivingTimeFromPrevious": 11
 				},
 				{
 					"stopId": "stop_39",
-					"distanceToPrevious": 8,
-					"arrivalTime": "14:40"
+					"distanceToPrevious": 10,
+					"arrivalTime": "14:52",
+					"drivingTimeFromPrevious": 11
 				},
 				{
 					"stopId": "stop_40",
 					"distanceToPrevious": 8,
-					"arrivalTime": "14:50"
+					"arrivalTime": "15:01",
+					"drivingTimeFromPrevious": 9
+				},
+				{
+					"stopId": "stop_41",
+					"distanceToPrevious": 6,
+					"arrivalTime": "15:07",
+					"drivingTimeFromPrevious": 6
+				},
+				{
+					"stopId": "stop_42",
+					"distanceToPrevious": 10,
+					"arrivalTime": "15:19",
+					"drivingTimeFromPrevious": 12
+				},
+				{
+					"stopId": "stop_43",
+					"distanceToPrevious": 7,
+					"arrivalTime": "15:27",
+					"drivingTimeFromPrevious": 8
 				}
 			]
 		},
@@ -444,148 +515,129 @@
 				},
 				{
 					"stopId": "stop_0",
-					"distanceToPrevious": 12,
-					"arrivalTime": "08:14"
+					"distanceToPrevious": 13,
+					"arrivalTime": "08:14",
+					"drivingTimeFromPrevious": 14
 				},
 				{
 					"stopId": "stop_1",
-					"distanceToPrevious": 16,
-					"arrivalTime": "08:34"
+					"distanceToPrevious": 15,
+					"arrivalTime": "08:33",
+					"drivingTimeFromPrevious": 19
 				},
 				{
 					"stopId": "stop_2",
-					"distanceToPrevious": 19,
-					"arrivalTime": "08:55"
+					"distanceToPrevious": 13,
+					"arrivalTime": "08:48",
+					"drivingTimeFromPrevious": 15
 				},
 				{
 					"stopId": "stop_3",
-					"distanceToPrevious": 14,
-					"arrivalTime": "09:13"
+					"distanceToPrevious": 16,
+					"arrivalTime": "09:07",
+					"drivingTimeFromPrevious": 19
 				},
 				{
 					"stopId": "stop_4",
-					"distanceToPrevious": 16,
-					"arrivalTime": "09:31"
+					"distanceToPrevious": 14,
+					"arrivalTime": "09:24",
+					"drivingTimeFromPrevious": 17
 				},
 				{
 					"stopId": "stop_5",
-					"distanceToPrevious": 10,
-					"arrivalTime": "09:41"
+					"distanceToPrevious": 14,
+					"arrivalTime": "09:40",
+					"drivingTimeFromPrevious": 16
 				},
 				{
 					"stopId": "stop_6",
-					"distanceToPrevious": 15,
-					"arrivalTime": "09:59"
+					"distanceToPrevious": 10,
+					"arrivalTime": "09:51",
+					"drivingTimeFromPrevious": 11
 				},
 				{
 					"stopId": "stop_7",
-					"distanceToPrevious": 18,
-					"arrivalTime": "10:20"
+					"distanceToPrevious": 11,
+					"arrivalTime": "10:03",
+					"drivingTimeFromPrevious": 12
 				},
 				{
 					"stopId": "stop_8",
-					"distanceToPrevious": 16,
-					"arrivalTime": "10:38"
+					"distanceToPrevious": 15,
+					"arrivalTime": "10:19",
+					"drivingTimeFromPrevious": 16
 				},
 				{
 					"stopId": "stop_9",
-					"distanceToPrevious": 14,
-					"arrivalTime": "10:53"
+					"distanceToPrevious": 13,
+					"arrivalTime": "10:34",
+					"drivingTimeFromPrevious": 15
 				},
 				{
 					"stopId": "stop_10",
-					"distanceToPrevious": 14,
-					"arrivalTime": "11:10"
+					"distanceToPrevious": 19,
+					"arrivalTime": "10:56",
+					"drivingTimeFromPrevious": 22
 				},
 				{
 					"stopId": "stop_11",
-					"distanceToPrevious": 16,
-					"arrivalTime": "11:30"
+					"distanceToPrevious": 20,
+					"arrivalTime": "11:18",
+					"drivingTimeFromPrevious": 22
 				},
 				{
 					"stopId": "stop_12",
-					"distanceToPrevious": 11,
-					"arrivalTime": "11:43"
+					"distanceToPrevious": 16,
+					"arrivalTime": "11:36",
+					"drivingTimeFromPrevious": 18
 				},
 				{
 					"stopId": "stop_13",
-					"distanceToPrevious": 17,
-					"arrivalTime": "12:02"
+					"distanceToPrevious": 19,
+					"arrivalTime": "11:59",
+					"drivingTimeFromPrevious": 23
 				},
 				{
 					"stopId": "stop_14",
-					"distanceToPrevious": 15,
-					"arrivalTime": "12:19"
+					"distanceToPrevious": 18,
+					"arrivalTime": "12:21",
+					"drivingTimeFromPrevious": 22
 				},
 				{
 					"stopId": "stop_15",
 					"distanceToPrevious": 15,
-					"arrivalTime": "12:37"
+					"arrivalTime": "12:40",
+					"drivingTimeFromPrevious": 19
 				},
 				{
 					"stopId": "stop_16",
-					"distanceToPrevious": 18,
-					"arrivalTime": "13:00"
+					"distanceToPrevious": 14,
+					"arrivalTime": "12:55",
+					"drivingTimeFromPrevious": 15
 				},
 				{
 					"stopId": "stop_17",
 					"distanceToPrevious": 12,
-					"arrivalTime": "13:15"
+					"arrivalTime": "13:10",
+					"drivingTimeFromPrevious": 15
 				},
 				{
 					"stopId": "stop_18",
-					"distanceToPrevious": 16,
-					"arrivalTime": "13:33"
+					"distanceToPrevious": 12,
+					"arrivalTime": "13:23",
+					"drivingTimeFromPrevious": 13
 				},
 				{
 					"stopId": "stop_19",
-					"distanceToPrevious": 13,
-					"arrivalTime": "13:49"
+					"distanceToPrevious": 16,
+					"arrivalTime": "13:42",
+					"drivingTimeFromPrevious": 19
 				},
 				{
 					"stopId": "stop_20",
 					"distanceToPrevious": 13,
-					"arrivalTime": "14:03"
-				},
-				{
-					"stopId": "stop_21",
-					"distanceToPrevious": 13,
-					"arrivalTime": "14:19"
-				},
-				{
-					"stopId": "stop_22",
-					"distanceToPrevious": 14,
-					"arrivalTime": "14:35"
-				},
-				{
-					"stopId": "stop_23",
-					"distanceToPrevious": 13,
-					"arrivalTime": "14:51"
-				},
-				{
-					"stopId": "stop_24",
-					"distanceToPrevious": 17,
-					"arrivalTime": "15:12"
-				},
-				{
-					"stopId": "stop_25",
-					"distanceToPrevious": 14,
-					"arrivalTime": "15:30"
-				},
-				{
-					"stopId": "stop_26",
-					"distanceToPrevious": 14,
-					"arrivalTime": "15:47"
-				},
-				{
-					"stopId": "stop_27",
-					"distanceToPrevious": 19,
-					"arrivalTime": "16:11"
-				},
-				{
-					"stopId": "stop_28",
-					"distanceToPrevious": 15,
-					"arrivalTime": "16:30"
+					"arrivalTime": "13:57",
+					"drivingTimeFromPrevious": 15
 				}
 			]
 		},
@@ -598,268 +650,297 @@
 				},
 				{
 					"stopId": "stop_0",
-					"distanceToPrevious": 7,
-					"arrivalTime": "08:09"
+					"distanceToPrevious": 8,
+					"arrivalTime": "08:08",
+					"drivingTimeFromPrevious": 8
 				},
 				{
 					"stopId": "stop_1",
-					"distanceToPrevious": 7,
-					"arrivalTime": "08:18"
+					"distanceToPrevious": 5,
+					"arrivalTime": "08:14",
+					"drivingTimeFromPrevious": 6
 				},
 				{
 					"stopId": "stop_2",
-					"distanceToPrevious": 7,
-					"arrivalTime": "08:26"
+					"distanceToPrevious": 9,
+					"arrivalTime": "08:24",
+					"drivingTimeFromPrevious": 10
 				},
 				{
 					"stopId": "stop_3",
 					"distanceToPrevious": 7,
-					"arrivalTime": "08:34"
+					"arrivalTime": "08:32",
+					"drivingTimeFromPrevious": 8
 				},
 				{
 					"stopId": "stop_4",
-					"distanceToPrevious": 3,
-					"arrivalTime": "08:37"
+					"distanceToPrevious": 7,
+					"arrivalTime": "08:40",
+					"drivingTimeFromPrevious": 8
 				},
 				{
 					"stopId": "stop_5",
-					"distanceToPrevious": 5,
-					"arrivalTime": "08:42"
+					"distanceToPrevious": 7,
+					"arrivalTime": "08:48",
+					"drivingTimeFromPrevious": 8
 				},
 				{
 					"stopId": "stop_6",
-					"distanceToPrevious": 8,
-					"arrivalTime": "08:51"
+					"distanceToPrevious": 5,
+					"arrivalTime": "08:54",
+					"drivingTimeFromPrevious": 6
 				},
 				{
 					"stopId": "stop_7",
-					"distanceToPrevious": 6,
-					"arrivalTime": "08:57"
+					"distanceToPrevious": 5,
+					"arrivalTime": "09:00",
+					"drivingTimeFromPrevious": 6
 				},
 				{
 					"stopId": "stop_8",
-					"distanceToPrevious": 8,
-					"arrivalTime": "09:06"
+					"distanceToPrevious": 7,
+					"arrivalTime": "09:09",
+					"drivingTimeFromPrevious": 9
 				},
 				{
 					"stopId": "stop_9",
-					"distanceToPrevious": 6,
-					"arrivalTime": "09:13"
+					"distanceToPrevious": 9,
+					"arrivalTime": "09:20",
+					"drivingTimeFromPrevious": 11
 				},
 				{
 					"stopId": "stop_10",
 					"distanceToPrevious": 6,
-					"arrivalTime": "09:20"
+					"arrivalTime": "09:26",
+					"drivingTimeFromPrevious": 6
 				},
 				{
 					"stopId": "stop_11",
 					"distanceToPrevious": 6,
-					"arrivalTime": "09:27"
+					"arrivalTime": "09:33",
+					"drivingTimeFromPrevious": 7
 				},
 				{
 					"stopId": "stop_12",
-					"distanceToPrevious": 11,
-					"arrivalTime": "09:40"
+					"distanceToPrevious": 7,
+					"arrivalTime": "09:41",
+					"drivingTimeFromPrevious": 8
 				},
 				{
 					"stopId": "stop_13",
 					"distanceToPrevious": 6,
-					"arrivalTime": "09:46"
+					"arrivalTime": "09:48",
+					"drivingTimeFromPrevious": 7
 				},
 				{
 					"stopId": "stop_14",
-					"distanceToPrevious": 6,
-					"arrivalTime": "09:53"
+					"distanceToPrevious": 7,
+					"arrivalTime": "09:56",
+					"drivingTimeFromPrevious": 8
 				},
 				{
 					"stopId": "stop_15",
-					"distanceToPrevious": 5,
-					"arrivalTime": "09:59"
+					"distanceToPrevious": 7,
+					"arrivalTime": "10:03",
+					"drivingTimeFromPrevious": 7
 				},
 				{
 					"stopId": "stop_16",
 					"distanceToPrevious": 7,
-					"arrivalTime": "10:06"
+					"arrivalTime": "10:12",
+					"drivingTimeFromPrevious": 9
 				},
 				{
 					"stopId": "stop_17",
-					"distanceToPrevious": 6,
-					"arrivalTime": "10:12"
+					"distanceToPrevious": 7,
+					"arrivalTime": "10:20",
+					"drivingTimeFromPrevious": 8
 				},
 				{
 					"stopId": "stop_18",
-					"distanceToPrevious": 4,
-					"arrivalTime": "10:16"
+					"distanceToPrevious": 7,
+					"arrivalTime": "10:28",
+					"drivingTimeFromPrevious": 8
 				},
 				{
 					"stopId": "stop_19",
-					"distanceToPrevious": 8,
-					"arrivalTime": "10:25"
+					"distanceToPrevious": 9,
+					"arrivalTime": "10:39",
+					"drivingTimeFromPrevious": 11
 				},
 				{
 					"stopId": "stop_20",
-					"distanceToPrevious": 5,
-					"arrivalTime": "10:31"
+					"distanceToPrevious": 7,
+					"arrivalTime": "10:47",
+					"drivingTimeFromPrevious": 8
 				},
 				{
 					"stopId": "stop_21",
-					"distanceToPrevious": 6,
-					"arrivalTime": "10:38"
+					"distanceToPrevious": 7,
+					"arrivalTime": "10:54",
+					"drivingTimeFromPrevious": 7
 				},
 				{
 					"stopId": "stop_22",
-					"distanceToPrevious": 1,
-					"arrivalTime": "10:39"
+					"distanceToPrevious": 7,
+					"arrivalTime": "11:02",
+					"drivingTimeFromPrevious": 8
 				},
 				{
 					"stopId": "stop_23",
-					"distanceToPrevious": 9,
-					"arrivalTime": "10:48"
+					"distanceToPrevious": 5,
+					"arrivalTime": "11:07",
+					"drivingTimeFromPrevious": 5
 				},
 				{
 					"stopId": "stop_24",
-					"distanceToPrevious": 3,
-					"arrivalTime": "10:51"
+					"distanceToPrevious": 9,
+					"arrivalTime": "11:16",
+					"drivingTimeFromPrevious": 9
 				},
 				{
 					"stopId": "stop_25",
 					"distanceToPrevious": 6,
-					"arrivalTime": "10:58"
+					"arrivalTime": "11:23",
+					"drivingTimeFromPrevious": 7
 				},
 				{
 					"stopId": "stop_26",
-					"distanceToPrevious": 5,
-					"arrivalTime": "11:04"
+					"distanceToPrevious": 7,
+					"arrivalTime": "11:31",
+					"drivingTimeFromPrevious": 8
 				},
 				{
 					"stopId": "stop_27",
-					"distanceToPrevious": 8,
-					"arrivalTime": "11:12"
+					"distanceToPrevious": 6,
+					"arrivalTime": "11:37",
+					"drivingTimeFromPrevious": 6
 				},
 				{
 					"stopId": "stop_28",
-					"distanceToPrevious": 6,
-					"arrivalTime": "11:19"
+					"distanceToPrevious": 5,
+					"arrivalTime": "11:42",
+					"drivingTimeFromPrevious": 5
 				},
 				{
 					"stopId": "stop_29",
-					"distanceToPrevious": 4,
-					"arrivalTime": "11:23"
+					"distanceToPrevious": 8,
+					"arrivalTime": "11:51",
+					"drivingTimeFromPrevious": 9
 				},
 				{
 					"stopId": "stop_30",
-					"distanceToPrevious": 6,
-					"arrivalTime": "11:30"
+					"distanceToPrevious": 5,
+					"arrivalTime": "11:56",
+					"drivingTimeFromPrevious": 5
 				},
 				{
 					"stopId": "stop_31",
-					"distanceToPrevious": 6,
-					"arrivalTime": "11:36"
+					"distanceToPrevious": 7,
+					"arrivalTime": "12:04",
+					"drivingTimeFromPrevious": 8
 				},
 				{
 					"stopId": "stop_32",
-					"distanceToPrevious": 4,
-					"arrivalTime": "11:40"
+					"distanceToPrevious": 5,
+					"arrivalTime": "12:10",
+					"drivingTimeFromPrevious": 6
 				},
 				{
 					"stopId": "stop_33",
-					"distanceToPrevious": 5,
-					"arrivalTime": "11:46"
+					"distanceToPrevious": 8,
+					"arrivalTime": "12:20",
+					"drivingTimeFromPrevious": 10
 				},
 				{
 					"stopId": "stop_34",
-					"distanceToPrevious": 7,
-					"arrivalTime": "11:55"
+					"distanceToPrevious": 6,
+					"arrivalTime": "12:27",
+					"drivingTimeFromPrevious": 7
 				},
 				{
 					"stopId": "stop_35",
-					"distanceToPrevious": 6,
-					"arrivalTime": "12:02"
+					"distanceToPrevious": 8,
+					"arrivalTime": "12:36",
+					"drivingTimeFromPrevious": 9
 				},
 				{
 					"stopId": "stop_36",
 					"distanceToPrevious": 7,
-					"arrivalTime": "12:10"
+					"arrivalTime": "12:44",
+					"drivingTimeFromPrevious": 8
 				},
 				{
 					"stopId": "stop_37",
-					"distanceToPrevious": 6,
-					"arrivalTime": "12:17"
+					"distanceToPrevious": 7,
+					"arrivalTime": "12:52",
+					"drivingTimeFromPrevious": 8
 				},
 				{
 					"stopId": "stop_38",
 					"distanceToPrevious": 8,
-					"arrivalTime": "12:27"
+					"arrivalTime": "13:01",
+					"drivingTimeFromPrevious": 9
 				},
 				{
 					"stopId": "stop_39",
-					"distanceToPrevious": 7,
-					"arrivalTime": "12:35"
+					"distanceToPrevious": 5,
+					"arrivalTime": "13:07",
+					"drivingTimeFromPrevious": 6
 				},
 				{
 					"stopId": "stop_40",
 					"distanceToPrevious": 6,
-					"arrivalTime": "12:42"
+					"arrivalTime": "13:14",
+					"drivingTimeFromPrevious": 7
 				},
 				{
 					"stopId": "stop_41",
 					"distanceToPrevious": 6,
-					"arrivalTime": "12:48"
+					"arrivalTime": "13:21",
+					"drivingTimeFromPrevious": 7
 				},
 				{
 					"stopId": "stop_42",
-					"distanceToPrevious": 9,
-					"arrivalTime": "12:57"
+					"distanceToPrevious": 4,
+					"arrivalTime": "13:25",
+					"drivingTimeFromPrevious": 4
 				},
 				{
 					"stopId": "stop_43",
 					"distanceToPrevious": 7,
-					"arrivalTime": "13:05"
+					"arrivalTime": "13:33",
+					"drivingTimeFromPrevious": 8
 				},
 				{
 					"stopId": "stop_44",
-					"distanceToPrevious": 7,
-					"arrivalTime": "13:13"
+					"distanceToPrevious": 8,
+					"arrivalTime": "13:43",
+					"drivingTimeFromPrevious": 10
 				},
 				{
 					"stopId": "stop_45",
-					"distanceToPrevious": 5,
-					"arrivalTime": "13:18"
+					"distanceToPrevious": 9,
+					"arrivalTime": "13:54",
+					"drivingTimeFromPrevious": 11
 				},
 				{
 					"stopId": "stop_46",
-					"distanceToPrevious": 9,
-					"arrivalTime": "13:29"
+					"distanceToPrevious": 11,
+					"arrivalTime": "14:08",
+					"drivingTimeFromPrevious": 14
 				},
 				{
 					"stopId": "stop_47",
-					"distanceToPrevious": 8,
-					"arrivalTime": "13:39"
+					"distanceToPrevious": 4,
+					"arrivalTime": "14:12",
+					"drivingTimeFromPrevious": 4
 				},
 				{
 					"stopId": "stop_48",
-					"distanceToPrevious": 6,
-					"arrivalTime": "13:46"
-				},
-				{
-					"stopId": "stop_49",
-					"distanceToPrevious": 7,
-					"arrivalTime": "13:54"
-				},
-				{
-					"stopId": "stop_50",
-					"distanceToPrevious": 5,
-					"arrivalTime": "14:00"
-				},
-				{
-					"stopId": "stop_51",
 					"distanceToPrevious": 8,
-					"arrivalTime": "14:09"
-				},
-				{
-					"stopId": "stop_52",
-					"distanceToPrevious": 5,
-					"arrivalTime": "14:14"
+					"arrivalTime": "14:21",
+					"drivingTimeFromPrevious": 9
 				}
 			]
 		},
@@ -872,193 +953,225 @@
 				},
 				{
 					"stopId": "stop_0",
-					"distanceToPrevious": 13,
-					"arrivalTime": "08:16"
+					"distanceToPrevious": 18,
+					"arrivalTime": "08:23",
+					"drivingTimeFromPrevious": 23
 				},
 				{
 					"stopId": "stop_1",
-					"distanceToPrevious": 14,
-					"arrivalTime": "08:32"
+					"distanceToPrevious": 12,
+					"arrivalTime": "08:38",
+					"drivingTimeFromPrevious": 15
 				},
 				{
 					"stopId": "stop_2",
 					"distanceToPrevious": 12,
-					"arrivalTime": "08:45"
+					"arrivalTime": "08:53",
+					"drivingTimeFromPrevious": 15
 				},
 				{
 					"stopId": "stop_3",
-					"distanceToPrevious": 12,
-					"arrivalTime": "08:59"
+					"distanceToPrevious": 13,
+					"arrivalTime": "09:09",
+					"drivingTimeFromPrevious": 16
 				},
 				{
 					"stopId": "stop_4",
-					"distanceToPrevious": 13,
-					"arrivalTime": "09:14"
+					"distanceToPrevious": 12,
+					"arrivalTime": "09:22",
+					"drivingTimeFromPrevious": 13
 				},
 				{
 					"stopId": "stop_5",
-					"distanceToPrevious": 13,
-					"arrivalTime": "09:28"
+					"distanceToPrevious": 12,
+					"arrivalTime": "09:35",
+					"drivingTimeFromPrevious": 13
 				},
 				{
 					"stopId": "stop_6",
-					"distanceToPrevious": 15,
-					"arrivalTime": "09:47"
+					"distanceToPrevious": 11,
+					"arrivalTime": "09:48",
+					"drivingTimeFromPrevious": 13
 				},
 				{
 					"stopId": "stop_7",
-					"distanceToPrevious": 9,
-					"arrivalTime": "09:57"
+					"distanceToPrevious": 11,
+					"arrivalTime": "10:02",
+					"drivingTimeFromPrevious": 14
 				},
 				{
 					"stopId": "stop_8",
-					"distanceToPrevious": 18,
-					"arrivalTime": "10:20"
+					"distanceToPrevious": 9,
+					"arrivalTime": "10:13",
+					"drivingTimeFromPrevious": 11
 				},
 				{
 					"stopId": "stop_9",
-					"distanceToPrevious": 13,
-					"arrivalTime": "10:37"
+					"distanceToPrevious": 16,
+					"arrivalTime": "10:30",
+					"drivingTimeFromPrevious": 17
 				},
 				{
 					"stopId": "stop_10",
 					"distanceToPrevious": 10,
-					"arrivalTime": "10:48"
+					"arrivalTime": "10:42",
+					"drivingTimeFromPrevious": 12
 				},
 				{
 					"stopId": "stop_11",
-					"distanceToPrevious": 10,
-					"arrivalTime": "10:59"
+					"distanceToPrevious": 11,
+					"arrivalTime": "10:54",
+					"drivingTimeFromPrevious": 12
 				},
 				{
 					"stopId": "stop_12",
-					"distanceToPrevious": 11,
-					"arrivalTime": "11:12"
+					"distanceToPrevious": 10,
+					"arrivalTime": "11:07",
+					"drivingTimeFromPrevious": 13
 				},
 				{
 					"stopId": "stop_13",
-					"distanceToPrevious": 13,
-					"arrivalTime": "11:26"
+					"distanceToPrevious": 12,
+					"arrivalTime": "11:22",
+					"drivingTimeFromPrevious": 15
 				},
 				{
 					"stopId": "stop_14",
-					"distanceToPrevious": 12,
-					"arrivalTime": "11:39"
+					"distanceToPrevious": 13,
+					"arrivalTime": "11:38",
+					"drivingTimeFromPrevious": 16
 				},
 				{
 					"stopId": "stop_15",
-					"distanceToPrevious": 11,
-					"arrivalTime": "11:51"
+					"distanceToPrevious": 15,
+					"arrivalTime": "11:55",
+					"drivingTimeFromPrevious": 17
 				},
 				{
 					"stopId": "stop_16",
-					"distanceToPrevious": 11,
-					"arrivalTime": "12:05"
+					"distanceToPrevious": 8,
+					"arrivalTime": "12:04",
+					"drivingTimeFromPrevious": 9
 				},
 				{
 					"stopId": "stop_17",
-					"distanceToPrevious": 13,
-					"arrivalTime": "12:21"
+					"distanceToPrevious": 10,
+					"arrivalTime": "12:16",
+					"drivingTimeFromPrevious": 12
 				},
 				{
 					"stopId": "stop_18",
 					"distanceToPrevious": 13,
-					"arrivalTime": "12:38"
+					"arrivalTime": "12:32",
+					"drivingTimeFromPrevious": 16
 				},
 				{
 					"stopId": "stop_19",
-					"distanceToPrevious": 10,
-					"arrivalTime": "12:50"
+					"distanceToPrevious": 12,
+					"arrivalTime": "12:47",
+					"drivingTimeFromPrevious": 15
 				},
 				{
 					"stopId": "stop_20",
-					"distanceToPrevious": 9,
-					"arrivalTime": "13:01"
+					"distanceToPrevious": 13,
+					"arrivalTime": "13:01",
+					"drivingTimeFromPrevious": 14
 				},
 				{
 					"stopId": "stop_21",
-					"distanceToPrevious": 11,
-					"arrivalTime": "13:12"
+					"distanceToPrevious": 15,
+					"arrivalTime": "13:18",
+					"drivingTimeFromPrevious": 17
 				},
 				{
 					"stopId": "stop_22",
-					"distanceToPrevious": 11,
-					"arrivalTime": "13:25"
+					"distanceToPrevious": 14,
+					"arrivalTime": "13:34",
+					"drivingTimeFromPrevious": 16
 				},
 				{
 					"stopId": "stop_23",
-					"distanceToPrevious": 13,
-					"arrivalTime": "13:40"
+					"distanceToPrevious": 15,
+					"arrivalTime": "13:50",
+					"drivingTimeFromPrevious": 16
 				},
 				{
 					"stopId": "stop_24",
-					"distanceToPrevious": 15,
-					"arrivalTime": "13:58"
+					"distanceToPrevious": 11,
+					"arrivalTime": "14:03",
+					"drivingTimeFromPrevious": 13
 				},
 				{
 					"stopId": "stop_25",
-					"distanceToPrevious": 11,
-					"arrivalTime": "14:12"
+					"distanceToPrevious": 8,
+					"arrivalTime": "14:12",
+					"drivingTimeFromPrevious": 9
 				},
 				{
 					"stopId": "stop_26",
 					"distanceToPrevious": 11,
-					"arrivalTime": "14:25"
+					"arrivalTime": "14:24",
+					"drivingTimeFromPrevious": 12
 				},
 				{
 					"stopId": "stop_27",
-					"distanceToPrevious": 11,
-					"arrivalTime": "14:38"
+					"distanceToPrevious": 10,
+					"arrivalTime": "14:35",
+					"drivingTimeFromPrevious": 11
 				},
 				{
 					"stopId": "stop_28",
-					"distanceToPrevious": 12,
-					"arrivalTime": "14:52"
+					"distanceToPrevious": 15,
+					"arrivalTime": "14:51",
+					"drivingTimeFromPrevious": 16
 				},
 				{
 					"stopId": "stop_29",
-					"distanceToPrevious": 10,
-					"arrivalTime": "15:02"
+					"distanceToPrevious": 16,
+					"arrivalTime": "15:10",
+					"drivingTimeFromPrevious": 19
 				},
 				{
 					"stopId": "stop_30",
-					"distanceToPrevious": 13,
-					"arrivalTime": "15:18"
+					"distanceToPrevious": 8,
+					"arrivalTime": "15:20",
+					"drivingTimeFromPrevious": 10
 				},
 				{
 					"stopId": "stop_31",
-					"distanceToPrevious": 13,
-					"arrivalTime": "15:33"
+					"distanceToPrevious": 12,
+					"arrivalTime": "15:35",
+					"drivingTimeFromPrevious": 15
 				},
 				{
 					"stopId": "stop_32",
-					"distanceToPrevious": 12,
-					"arrivalTime": "15:48"
+					"distanceToPrevious": 15,
+					"arrivalTime": "15:53",
+					"drivingTimeFromPrevious": 18
 				},
 				{
 					"stopId": "stop_33",
-					"distanceToPrevious": 15,
-					"arrivalTime": "16:06"
+					"distanceToPrevious": 12,
+					"arrivalTime": "16:06",
+					"drivingTimeFromPrevious": 13
 				},
 				{
 					"stopId": "stop_34",
 					"distanceToPrevious": 12,
-					"arrivalTime": "16:20"
+					"arrivalTime": "16:20",
+					"drivingTimeFromPrevious": 14
 				},
 				{
 					"stopId": "stop_35",
 					"distanceToPrevious": 12,
-					"arrivalTime": "16:35"
+					"arrivalTime": "16:34",
+					"drivingTimeFromPrevious": 14
 				},
 				{
 					"stopId": "stop_36",
-					"distanceToPrevious": 8,
-					"arrivalTime": "16:44"
-				},
-				{
-					"stopId": "stop_37",
-					"distanceToPrevious": 13,
-					"arrivalTime": "17:00"
+					"distanceToPrevious": 10,
+					"arrivalTime": "16:44",
+					"drivingTimeFromPrevious": 10
 				}
 			]
 		},
@@ -1071,293 +1184,321 @@
 				},
 				{
 					"stopId": "stop_0",
-					"distanceToPrevious": 7,
-					"arrivalTime": "08:08"
+					"distanceToPrevious": 9,
+					"arrivalTime": "08:11",
+					"drivingTimeFromPrevious": 11
 				},
 				{
 					"stopId": "stop_1",
-					"distanceToPrevious": 11,
-					"arrivalTime": "08:20"
+					"distanceToPrevious": 6,
+					"arrivalTime": "08:17",
+					"drivingTimeFromPrevious": 6
 				},
 				{
 					"stopId": "stop_2",
 					"distanceToPrevious": 9,
-					"arrivalTime": "08:29"
+					"arrivalTime": "08:28",
+					"drivingTimeFromPrevious": 11
 				},
 				{
 					"stopId": "stop_3",
-					"distanceToPrevious": 7,
-					"arrivalTime": "08:36"
+					"distanceToPrevious": 6,
+					"arrivalTime": "08:35",
+					"drivingTimeFromPrevious": 7
 				},
 				{
 					"stopId": "stop_4",
-					"distanceToPrevious": 8,
-					"arrivalTime": "08:45"
+					"distanceToPrevious": 7,
+					"arrivalTime": "08:42",
+					"drivingTimeFromPrevious": 7
 				},
 				{
 					"stopId": "stop_5",
-					"distanceToPrevious": 6,
-					"arrivalTime": "08:51"
+					"distanceToPrevious": 7,
+					"arrivalTime": "08:49",
+					"drivingTimeFromPrevious": 7
 				},
 				{
 					"stopId": "stop_6",
-					"distanceToPrevious": 10,
-					"arrivalTime": "09:02"
+					"distanceToPrevious": 8,
+					"arrivalTime": "08:58",
+					"drivingTimeFromPrevious": 9
 				},
 				{
 					"stopId": "stop_7",
-					"distanceToPrevious": 9,
-					"arrivalTime": "09:12"
+					"distanceToPrevious": 8,
+					"arrivalTime": "09:08",
+					"drivingTimeFromPrevious": 10
 				},
 				{
 					"stopId": "stop_8",
-					"distanceToPrevious": 7,
-					"arrivalTime": "09:19"
+					"distanceToPrevious": 9,
+					"arrivalTime": "09:19",
+					"drivingTimeFromPrevious": 11
 				},
 				{
 					"stopId": "stop_9",
-					"distanceToPrevious": 9,
-					"arrivalTime": "09:29"
+					"distanceToPrevious": 7,
+					"arrivalTime": "09:27",
+					"drivingTimeFromPrevious": 8
 				},
 				{
 					"stopId": "stop_10",
-					"distanceToPrevious": 8,
-					"arrivalTime": "09:38"
+					"distanceToPrevious": 9,
+					"arrivalTime": "09:38",
+					"drivingTimeFromPrevious": 11
 				},
 				{
 					"stopId": "stop_11",
-					"distanceToPrevious": 6,
-					"arrivalTime": "09:45"
+					"distanceToPrevious": 10,
+					"arrivalTime": "09:49",
+					"drivingTimeFromPrevious": 11
 				},
 				{
 					"stopId": "stop_12",
-					"distanceToPrevious": 8,
-					"arrivalTime": "09:55"
+					"distanceToPrevious": 10,
+					"arrivalTime": "10:01",
+					"drivingTimeFromPrevious": 12
 				},
 				{
 					"stopId": "stop_13",
-					"distanceToPrevious": 7,
-					"arrivalTime": "10:03"
+					"distanceToPrevious": 9,
+					"arrivalTime": "10:12",
+					"drivingTimeFromPrevious": 11
 				},
 				{
 					"stopId": "stop_14",
-					"distanceToPrevious": 6,
-					"arrivalTime": "10:10"
+					"distanceToPrevious": 10,
+					"arrivalTime": "10:24",
+					"drivingTimeFromPrevious": 12
 				},
 				{
 					"stopId": "stop_15",
 					"distanceToPrevious": 7,
-					"arrivalTime": "10:17"
+					"arrivalTime": "10:32",
+					"drivingTimeFromPrevious": 8
 				},
 				{
 					"stopId": "stop_16",
-					"distanceToPrevious": 9,
-					"arrivalTime": "10:27"
+					"distanceToPrevious": 11,
+					"arrivalTime": "10:44",
+					"drivingTimeFromPrevious": 12
 				},
 				{
 					"stopId": "stop_17",
 					"distanceToPrevious": 8,
-					"arrivalTime": "10:36"
+					"arrivalTime": "10:53",
+					"drivingTimeFromPrevious": 9
 				},
 				{
 					"stopId": "stop_18",
-					"distanceToPrevious": 11,
-					"arrivalTime": "10:50"
+					"distanceToPrevious": 9,
+					"arrivalTime": "11:04",
+					"drivingTimeFromPrevious": 11
 				},
 				{
 					"stopId": "stop_19",
-					"distanceToPrevious": 9,
-					"arrivalTime": "11:01"
+					"distanceToPrevious": 8,
+					"arrivalTime": "11:13",
+					"drivingTimeFromPrevious": 9
 				},
 				{
 					"stopId": "stop_20",
-					"distanceToPrevious": 11,
-					"arrivalTime": "11:14"
+					"distanceToPrevious": 8,
+					"arrivalTime": "11:22",
+					"drivingTimeFromPrevious": 9
 				},
 				{
 					"stopId": "stop_21",
-					"distanceToPrevious": 8,
-					"arrivalTime": "11:23"
+					"distanceToPrevious": 6,
+					"arrivalTime": "11:29",
+					"drivingTimeFromPrevious": 7
 				},
 				{
 					"stopId": "stop_22",
 					"distanceToPrevious": 7,
-					"arrivalTime": "11:31"
+					"arrivalTime": "11:37",
+					"drivingTimeFromPrevious": 8
 				},
 				{
 					"stopId": "stop_23",
-					"distanceToPrevious": 8,
-					"arrivalTime": "11:39"
+					"distanceToPrevious": 10,
+					"arrivalTime": "11:48",
+					"drivingTimeFromPrevious": 11
 				},
 				{
 					"stopId": "stop_24",
-					"distanceToPrevious": 8,
-					"arrivalTime": "11:47"
+					"distanceToPrevious": 9,
+					"arrivalTime": "11:58",
+					"drivingTimeFromPrevious": 10
 				},
 				{
 					"stopId": "stop_25",
-					"distanceToPrevious": 9,
-					"arrivalTime": "11:57"
+					"distanceToPrevious": 8,
+					"arrivalTime": "12:08",
+					"drivingTimeFromPrevious": 10
 				},
 				{
 					"stopId": "stop_26",
-					"distanceToPrevious": 7,
-					"arrivalTime": "12:05"
+					"distanceToPrevious": 8,
+					"arrivalTime": "12:18",
+					"drivingTimeFromPrevious": 10
 				},
 				{
 					"stopId": "stop_27",
-					"distanceToPrevious": 8,
-					"arrivalTime": "12:14"
+					"distanceToPrevious": 5,
+					"arrivalTime": "12:23",
+					"drivingTimeFromPrevious": 5
 				},
 				{
 					"stopId": "stop_28",
-					"distanceToPrevious": 11,
-					"arrivalTime": "12:26"
+					"distanceToPrevious": 9,
+					"arrivalTime": "12:33",
+					"drivingTimeFromPrevious": 10
 				},
 				{
 					"stopId": "stop_29",
-					"distanceToPrevious": 8,
-					"arrivalTime": "12:35"
+					"distanceToPrevious": 10,
+					"arrivalTime": "12:45",
+					"drivingTimeFromPrevious": 12
 				},
 				{
 					"stopId": "stop_30",
-					"distanceToPrevious": 12,
-					"arrivalTime": "12:50"
+					"distanceToPrevious": 8,
+					"arrivalTime": "12:53",
+					"drivingTimeFromPrevious": 8
 				},
 				{
 					"stopId": "stop_31",
 					"distanceToPrevious": 8,
-					"arrivalTime": "12:59"
+					"arrivalTime": "13:01",
+					"drivingTimeFromPrevious": 8
 				},
 				{
 					"stopId": "stop_32",
-					"distanceToPrevious": 9,
-					"arrivalTime": "13:09"
+					"distanceToPrevious": 8,
+					"arrivalTime": "13:11",
+					"drivingTimeFromPrevious": 10
 				},
 				{
 					"stopId": "stop_33",
-					"distanceToPrevious": 7,
-					"arrivalTime": "13:17"
+					"distanceToPrevious": 10,
+					"arrivalTime": "13:23",
+					"drivingTimeFromPrevious": 12
 				},
 				{
 					"stopId": "stop_34",
-					"distanceToPrevious": 10,
-					"arrivalTime": "13:29"
+					"distanceToPrevious": 8,
+					"arrivalTime": "13:32",
+					"drivingTimeFromPrevious": 9
 				},
 				{
 					"stopId": "stop_35",
 					"distanceToPrevious": 9,
-					"arrivalTime": "13:38"
+					"arrivalTime": "13:41",
+					"drivingTimeFromPrevious": 9
 				},
 				{
 					"stopId": "stop_36",
-					"distanceToPrevious": 8,
-					"arrivalTime": "13:46"
+					"distanceToPrevious": 11,
+					"arrivalTime": "13:53",
+					"drivingTimeFromPrevious": 12
 				},
 				{
 					"stopId": "stop_37",
-					"distanceToPrevious": 7,
-					"arrivalTime": "13:54"
+					"distanceToPrevious": 8,
+					"arrivalTime": "14:02",
+					"drivingTimeFromPrevious": 9
 				},
 				{
 					"stopId": "stop_38",
-					"distanceToPrevious": 9,
-					"arrivalTime": "14:04"
+					"distanceToPrevious": 10,
+					"arrivalTime": "14:14",
+					"drivingTimeFromPrevious": 12
 				},
 				{
 					"stopId": "stop_39",
-					"distanceToPrevious": 11,
-					"arrivalTime": "14:16"
+					"distanceToPrevious": 10,
+					"arrivalTime": "14:25",
+					"drivingTimeFromPrevious": 11
 				},
 				{
 					"stopId": "stop_40",
-					"distanceToPrevious": 8,
-					"arrivalTime": "14:24"
+					"distanceToPrevious": 9,
+					"arrivalTime": "14:36",
+					"drivingTimeFromPrevious": 11
 				},
 				{
 					"stopId": "stop_41",
-					"distanceToPrevious": 8,
-					"arrivalTime": "14:34"
+					"distanceToPrevious": 6,
+					"arrivalTime": "14:43",
+					"drivingTimeFromPrevious": 7
 				},
 				{
 					"stopId": "stop_42",
-					"distanceToPrevious": 8,
-					"arrivalTime": "14:43"
+					"distanceToPrevious": 9,
+					"arrivalTime": "14:53",
+					"drivingTimeFromPrevious": 10
 				},
 				{
 					"stopId": "stop_43",
-					"distanceToPrevious": 5,
-					"arrivalTime": "14:49"
+					"distanceToPrevious": 8,
+					"arrivalTime": "15:03",
+					"drivingTimeFromPrevious": 10
 				},
 				{
 					"stopId": "stop_44",
-					"distanceToPrevious": 10,
-					"arrivalTime": "15:02"
+					"distanceToPrevious": 8,
+					"arrivalTime": "15:12",
+					"drivingTimeFromPrevious": 9
 				},
 				{
 					"stopId": "stop_45",
-					"distanceToPrevious": 7,
-					"arrivalTime": "15:10"
+					"distanceToPrevious": 10,
+					"arrivalTime": "15:22",
+					"drivingTimeFromPrevious": 10
 				},
 				{
 					"stopId": "stop_46",
-					"distanceToPrevious": 7,
-					"arrivalTime": "15:18"
+					"distanceToPrevious": 9,
+					"arrivalTime": "15:33",
+					"drivingTimeFromPrevious": 11
 				},
 				{
 					"stopId": "stop_47",
-					"distanceToPrevious": 10,
-					"arrivalTime": "15:29"
+					"distanceToPrevious": 9,
+					"arrivalTime": "15:43",
+					"drivingTimeFromPrevious": 10
 				},
 				{
 					"stopId": "stop_48",
-					"distanceToPrevious": 6,
-					"arrivalTime": "15:36"
+					"distanceToPrevious": 7,
+					"arrivalTime": "15:51",
+					"drivingTimeFromPrevious": 8
 				},
 				{
 					"stopId": "stop_49",
-					"distanceToPrevious": 10,
-					"arrivalTime": "15:48"
+					"distanceToPrevious": 6,
+					"arrivalTime": "15:57",
+					"drivingTimeFromPrevious": 6
 				},
 				{
 					"stopId": "stop_50",
-					"distanceToPrevious": 6,
-					"arrivalTime": "15:55"
+					"distanceToPrevious": 11,
+					"arrivalTime": "16:08",
+					"drivingTimeFromPrevious": 11
 				},
 				{
 					"stopId": "stop_51",
-					"distanceToPrevious": 9,
-					"arrivalTime": "16:06"
+					"distanceToPrevious": 10,
+					"arrivalTime": "16:19",
+					"drivingTimeFromPrevious": 11
 				},
 				{
 					"stopId": "stop_52",
-					"distanceToPrevious": 10,
-					"arrivalTime": "16:18"
-				},
-				{
-					"stopId": "stop_53",
-					"distanceToPrevious": 7,
-					"arrivalTime": "16:26"
-				},
-				{
-					"stopId": "stop_54",
-					"distanceToPrevious": 8,
-					"arrivalTime": "16:35"
-				},
-				{
-					"stopId": "stop_55",
-					"distanceToPrevious": 6,
-					"arrivalTime": "16:42"
-				},
-				{
-					"stopId": "stop_56",
-					"distanceToPrevious": 8,
-					"arrivalTime": "16:51"
-				},
-				{
-					"stopId": "stop_57",
-					"distanceToPrevious": 12,
-					"arrivalTime": "17:04"
+					"distanceToPrevious": 9,
+					"arrivalTime": "16:29",
+					"drivingTimeFromPrevious": 10
 				}
 			]
 		},
@@ -1370,183 +1511,189 @@
 				},
 				{
 					"stopId": "stop_0",
-					"distanceToPrevious": 12,
-					"arrivalTime": "08:15"
+					"distanceToPrevious": 13,
+					"arrivalTime": "08:15",
+					"drivingTimeFromPrevious": 15
 				},
 				{
 					"stopId": "stop_1",
-					"distanceToPrevious": 12,
-					"arrivalTime": "08:30"
+					"distanceToPrevious": 11,
+					"arrivalTime": "08:28",
+					"drivingTimeFromPrevious": 13
 				},
 				{
 					"stopId": "stop_2",
-					"distanceToPrevious": 9,
-					"arrivalTime": "08:41"
+					"distanceToPrevious": 7,
+					"arrivalTime": "08:37",
+					"drivingTimeFromPrevious": 9
 				},
 				{
 					"stopId": "stop_3",
 					"distanceToPrevious": 12,
-					"arrivalTime": "08:54"
+					"arrivalTime": "08:51",
+					"drivingTimeFromPrevious": 14
 				},
 				{
 					"stopId": "stop_4",
-					"distanceToPrevious": 11,
-					"arrivalTime": "09:08"
+					"distanceToPrevious": 13,
+					"arrivalTime": "09:05",
+					"drivingTimeFromPrevious": 14
 				},
 				{
 					"stopId": "stop_5",
-					"distanceToPrevious": 12,
-					"arrivalTime": "09:21"
+					"distanceToPrevious": 11,
+					"arrivalTime": "09:19",
+					"drivingTimeFromPrevious": 14
 				},
 				{
 					"stopId": "stop_6",
-					"distanceToPrevious": 11,
-					"arrivalTime": "09:32"
+					"distanceToPrevious": 14,
+					"arrivalTime": "09:36",
+					"drivingTimeFromPrevious": 17
 				},
 				{
 					"stopId": "stop_7",
-					"distanceToPrevious": 11,
-					"arrivalTime": "09:45"
+					"distanceToPrevious": 9,
+					"arrivalTime": "09:46",
+					"drivingTimeFromPrevious": 10
 				},
 				{
 					"stopId": "stop_8",
-					"distanceToPrevious": 11,
-					"arrivalTime": "09:57"
+					"distanceToPrevious": 10,
+					"arrivalTime": "09:58",
+					"drivingTimeFromPrevious": 12
 				},
 				{
 					"stopId": "stop_9",
-					"distanceToPrevious": 12,
-					"arrivalTime": "10:10"
+					"distanceToPrevious": 10,
+					"arrivalTime": "10:10",
+					"drivingTimeFromPrevious": 12
 				},
 				{
 					"stopId": "stop_10",
-					"distanceToPrevious": 12,
-					"arrivalTime": "10:23"
+					"distanceToPrevious": 11,
+					"arrivalTime": "10:22",
+					"drivingTimeFromPrevious": 12
 				},
 				{
 					"stopId": "stop_11",
-					"distanceToPrevious": 12,
-					"arrivalTime": "10:37"
+					"distanceToPrevious": 9,
+					"arrivalTime": "10:32",
+					"drivingTimeFromPrevious": 10
 				},
 				{
 					"stopId": "stop_12",
-					"distanceToPrevious": 8,
-					"arrivalTime": "10:45"
+					"distanceToPrevious": 12,
+					"arrivalTime": "10:46",
+					"drivingTimeFromPrevious": 14
 				},
 				{
 					"stopId": "stop_13",
-					"distanceToPrevious": 9,
-					"arrivalTime": "10:56"
+					"distanceToPrevious": 11,
+					"arrivalTime": "10:58",
+					"drivingTimeFromPrevious": 12
 				},
 				{
 					"stopId": "stop_14",
-					"distanceToPrevious": 12,
-					"arrivalTime": "11:11"
+					"distanceToPrevious": 16,
+					"arrivalTime": "11:17",
+					"drivingTimeFromPrevious": 19
 				},
 				{
 					"stopId": "stop_15",
-					"distanceToPrevious": 10,
-					"arrivalTime": "11:23"
+					"distanceToPrevious": 14,
+					"arrivalTime": "11:34",
+					"drivingTimeFromPrevious": 17
 				},
 				{
 					"stopId": "stop_16",
-					"distanceToPrevious": 11,
-					"arrivalTime": "11:36"
+					"distanceToPrevious": 7,
+					"arrivalTime": "11:42",
+					"drivingTimeFromPrevious": 8
 				},
 				{
 					"stopId": "stop_17",
-					"distanceToPrevious": 9,
-					"arrivalTime": "11:46"
+					"distanceToPrevious": 13,
+					"arrivalTime": "11:56",
+					"drivingTimeFromPrevious": 14
 				},
 				{
 					"stopId": "stop_18",
 					"distanceToPrevious": 12,
-					"arrivalTime": "11:59"
+					"arrivalTime": "12:09",
+					"drivingTimeFromPrevious": 13
 				},
 				{
 					"stopId": "stop_19",
-					"distanceToPrevious": 12,
-					"arrivalTime": "12:13"
+					"distanceToPrevious": 17,
+					"arrivalTime": "12:30",
+					"drivingTimeFromPrevious": 21
 				},
 				{
 					"stopId": "stop_20",
 					"distanceToPrevious": 11,
-					"arrivalTime": "12:26"
+					"arrivalTime": "12:41",
+					"drivingTimeFromPrevious": 11
 				},
 				{
 					"stopId": "stop_21",
-					"distanceToPrevious": 9,
-					"arrivalTime": "12:36"
+					"distanceToPrevious": 13,
+					"arrivalTime": "12:57",
+					"drivingTimeFromPrevious": 16
 				},
 				{
 					"stopId": "stop_22",
 					"distanceToPrevious": 12,
-					"arrivalTime": "12:48"
+					"arrivalTime": "13:10",
+					"drivingTimeFromPrevious": 13
 				},
 				{
 					"stopId": "stop_23",
-					"distanceToPrevious": 12,
-					"arrivalTime": "13:01"
+					"distanceToPrevious": 16,
+					"arrivalTime": "13:30",
+					"drivingTimeFromPrevious": 20
 				},
 				{
 					"stopId": "stop_24",
 					"distanceToPrevious": 12,
-					"arrivalTime": "13:14"
+					"arrivalTime": "13:45",
+					"drivingTimeFromPrevious": 15
 				},
 				{
 					"stopId": "stop_25",
-					"distanceToPrevious": 11,
-					"arrivalTime": "13:27"
+					"distanceToPrevious": 7,
+					"arrivalTime": "13:53",
+					"drivingTimeFromPrevious": 8
 				},
 				{
 					"stopId": "stop_26",
-					"distanceToPrevious": 10,
-					"arrivalTime": "13:39"
+					"distanceToPrevious": 15,
+					"arrivalTime": "14:11",
+					"drivingTimeFromPrevious": 18
 				},
 				{
 					"stopId": "stop_27",
-					"distanceToPrevious": 9,
-					"arrivalTime": "13:50"
+					"distanceToPrevious": 12,
+					"arrivalTime": "14:25",
+					"drivingTimeFromPrevious": 14
 				},
 				{
 					"stopId": "stop_28",
-					"distanceToPrevious": 15,
-					"arrivalTime": "14:09"
+					"distanceToPrevious": 12,
+					"arrivalTime": "14:40",
+					"drivingTimeFromPrevious": 15
 				},
 				{
 					"stopId": "stop_29",
-					"distanceToPrevious": 12,
-					"arrivalTime": "14:22"
+					"distanceToPrevious": 13,
+					"arrivalTime": "14:55",
+					"drivingTimeFromPrevious": 15
 				},
 				{
 					"stopId": "stop_30",
-					"distanceToPrevious": 8,
-					"arrivalTime": "14:30"
-				},
-				{
-					"stopId": "stop_31",
-					"distanceToPrevious": 13,
-					"arrivalTime": "14:47"
-				},
-				{
-					"stopId": "stop_32",
-					"distanceToPrevious": 12,
-					"arrivalTime": "15:00"
-				},
-				{
-					"stopId": "stop_33",
-					"distanceToPrevious": 12,
-					"arrivalTime": "15:15"
-				},
-				{
-					"stopId": "stop_34",
-					"distanceToPrevious": 10,
-					"arrivalTime": "15:26"
-				},
-				{
-					"stopId": "stop_35",
-					"distanceToPrevious": 10,
-					"arrivalTime": "15:37"
+					"distanceToPrevious": 14,
+					"arrivalTime": "15:12",
+					"drivingTimeFromPrevious": 17
 				}
 			]
 		},
@@ -1559,233 +1706,285 @@
 				},
 				{
 					"stopId": "stop_0",
-					"distanceToPrevious": 6,
-					"arrivalTime": "08:06"
+					"distanceToPrevious": 12,
+					"arrivalTime": "08:15",
+					"drivingTimeFromPrevious": 15
 				},
 				{
 					"stopId": "stop_1",
-					"distanceToPrevious": 5,
-					"arrivalTime": "08:12"
+					"distanceToPrevious": 11,
+					"arrivalTime": "08:29",
+					"drivingTimeFromPrevious": 14
 				},
 				{
 					"stopId": "stop_2",
-					"distanceToPrevious": 13,
-					"arrivalTime": "08:26"
+					"distanceToPrevious": 10,
+					"arrivalTime": "08:42",
+					"drivingTimeFromPrevious": 13
 				},
 				{
 					"stopId": "stop_3",
-					"distanceToPrevious": 9,
-					"arrivalTime": "08:37"
+					"distanceToPrevious": 6,
+					"arrivalTime": "08:48",
+					"drivingTimeFromPrevious": 6
 				},
 				{
 					"stopId": "stop_4",
-					"distanceToPrevious": 9,
-					"arrivalTime": "08:48"
+					"distanceToPrevious": 11,
+					"arrivalTime": "09:00",
+					"drivingTimeFromPrevious": 12
 				},
 				{
 					"stopId": "stop_5",
-					"distanceToPrevious": 8,
-					"arrivalTime": "08:58"
+					"distanceToPrevious": 9,
+					"arrivalTime": "09:11",
+					"drivingTimeFromPrevious": 11
 				},
 				{
 					"stopId": "stop_6",
-					"distanceToPrevious": 11,
-					"arrivalTime": "09:12"
+					"distanceToPrevious": 9,
+					"arrivalTime": "09:22",
+					"drivingTimeFromPrevious": 11
 				},
 				{
 					"stopId": "stop_7",
-					"distanceToPrevious": 10,
-					"arrivalTime": "09:23"
+					"distanceToPrevious": 8,
+					"arrivalTime": "09:31",
+					"drivingTimeFromPrevious": 9
 				},
 				{
 					"stopId": "stop_8",
-					"distanceToPrevious": 12,
-					"arrivalTime": "09:36"
+					"distanceToPrevious": 9,
+					"arrivalTime": "09:41",
+					"drivingTimeFromPrevious": 10
 				},
 				{
 					"stopId": "stop_9",
-					"distanceToPrevious": 9,
-					"arrivalTime": "09:46"
+					"distanceToPrevious": 11,
+					"arrivalTime": "09:55",
+					"drivingTimeFromPrevious": 14
 				},
 				{
 					"stopId": "stop_10",
-					"distanceToPrevious": 10,
-					"arrivalTime": "09:58"
+					"distanceToPrevious": 13,
+					"arrivalTime": "10:09",
+					"drivingTimeFromPrevious": 14
 				},
 				{
 					"stopId": "stop_11",
 					"distanceToPrevious": 10,
-					"arrivalTime": "10:11"
+					"arrivalTime": "10:19",
+					"drivingTimeFromPrevious": 10
 				},
 				{
 					"stopId": "stop_12",
-					"distanceToPrevious": 9,
-					"arrivalTime": "10:22"
+					"distanceToPrevious": 11,
+					"arrivalTime": "10:33",
+					"drivingTimeFromPrevious": 14
 				},
 				{
 					"stopId": "stop_13",
-					"distanceToPrevious": 8,
-					"arrivalTime": "10:31"
+					"distanceToPrevious": 9,
+					"arrivalTime": "10:44",
+					"drivingTimeFromPrevious": 11
 				},
 				{
 					"stopId": "stop_14",
-					"distanceToPrevious": 9,
-					"arrivalTime": "10:41"
+					"distanceToPrevious": 11,
+					"arrivalTime": "10:56",
+					"drivingTimeFromPrevious": 12
 				},
 				{
 					"stopId": "stop_15",
-					"distanceToPrevious": 10,
-					"arrivalTime": "10:53"
+					"distanceToPrevious": 6,
+					"arrivalTime": "11:02",
+					"drivingTimeFromPrevious": 6
 				},
 				{
 					"stopId": "stop_16",
-					"distanceToPrevious": 8,
-					"arrivalTime": "11:02"
+					"distanceToPrevious": 9,
+					"arrivalTime": "11:12",
+					"drivingTimeFromPrevious": 10
 				},
 				{
 					"stopId": "stop_17",
-					"distanceToPrevious": 14,
-					"arrivalTime": "11:19"
+					"distanceToPrevious": 11,
+					"arrivalTime": "11:25",
+					"drivingTimeFromPrevious": 13
 				},
 				{
 					"stopId": "stop_18",
-					"distanceToPrevious": 10,
-					"arrivalTime": "11:31"
+					"distanceToPrevious": 9,
+					"arrivalTime": "11:36",
+					"drivingTimeFromPrevious": 11
 				},
 				{
 					"stopId": "stop_19",
-					"distanceToPrevious": 11,
-					"arrivalTime": "11:44"
+					"distanceToPrevious": 9,
+					"arrivalTime": "11:46",
+					"drivingTimeFromPrevious": 10
 				},
 				{
 					"stopId": "stop_20",
-					"distanceToPrevious": 10,
-					"arrivalTime": "11:55"
+					"distanceToPrevious": 9,
+					"arrivalTime": "11:57",
+					"drivingTimeFromPrevious": 11
 				},
 				{
 					"stopId": "stop_21",
-					"distanceToPrevious": 10,
-					"arrivalTime": "12:06"
+					"distanceToPrevious": 9,
+					"arrivalTime": "12:08",
+					"drivingTimeFromPrevious": 11
 				},
 				{
 					"stopId": "stop_22",
-					"distanceToPrevious": 12,
-					"arrivalTime": "12:20"
+					"distanceToPrevious": 8,
+					"arrivalTime": "12:16",
+					"drivingTimeFromPrevious": 8
 				},
 				{
 					"stopId": "stop_23",
-					"distanceToPrevious": 10,
-					"arrivalTime": "12:32"
+					"distanceToPrevious": 13,
+					"arrivalTime": "12:32",
+					"drivingTimeFromPrevious": 16
 				},
 				{
 					"stopId": "stop_24",
-					"distanceToPrevious": 8,
-					"arrivalTime": "12:41"
+					"distanceToPrevious": 3,
+					"arrivalTime": "12:35",
+					"drivingTimeFromPrevious": 3
 				},
 				{
 					"stopId": "stop_25",
 					"distanceToPrevious": 10,
-					"arrivalTime": "12:53"
+					"arrivalTime": "12:46",
+					"drivingTimeFromPrevious": 11
 				},
 				{
 					"stopId": "stop_26",
-					"distanceToPrevious": 12,
-					"arrivalTime": "13:07"
+					"distanceToPrevious": 10,
+					"arrivalTime": "12:57",
+					"drivingTimeFromPrevious": 11
 				},
 				{
 					"stopId": "stop_27",
-					"distanceToPrevious": 9,
-					"arrivalTime": "13:18"
+					"distanceToPrevious": 10,
+					"arrivalTime": "13:08",
+					"drivingTimeFromPrevious": 11
 				},
 				{
 					"stopId": "stop_28",
-					"distanceToPrevious": 10,
-					"arrivalTime": "13:30"
+					"distanceToPrevious": 14,
+					"arrivalTime": "13:23",
+					"drivingTimeFromPrevious": 15
 				},
 				{
 					"stopId": "stop_29",
-					"distanceToPrevious": 9,
-					"arrivalTime": "13:41"
+					"distanceToPrevious": 5,
+					"arrivalTime": "13:28",
+					"drivingTimeFromPrevious": 5
 				},
 				{
 					"stopId": "stop_30",
-					"distanceToPrevious": 12,
-					"arrivalTime": "13:56"
+					"distanceToPrevious": 10,
+					"arrivalTime": "13:40",
+					"drivingTimeFromPrevious": 12
 				},
 				{
 					"stopId": "stop_31",
-					"distanceToPrevious": 6,
-					"arrivalTime": "14:02"
+					"distanceToPrevious": 9,
+					"arrivalTime": "13:49",
+					"drivingTimeFromPrevious": 9
 				},
 				{
 					"stopId": "stop_32",
-					"distanceToPrevious": 10,
-					"arrivalTime": "14:13"
+					"distanceToPrevious": 11,
+					"arrivalTime": "14:01",
+					"drivingTimeFromPrevious": 12
 				},
 				{
 					"stopId": "stop_33",
-					"distanceToPrevious": 9,
-					"arrivalTime": "14:23"
+					"distanceToPrevious": 13,
+					"arrivalTime": "14:16",
+					"drivingTimeFromPrevious": 15
 				},
 				{
 					"stopId": "stop_34",
-					"distanceToPrevious": 11,
-					"arrivalTime": "14:36"
+					"distanceToPrevious": 7,
+					"arrivalTime": "14:24",
+					"drivingTimeFromPrevious": 8
 				},
 				{
 					"stopId": "stop_35",
-					"distanceToPrevious": 5,
-					"arrivalTime": "14:41"
+					"distanceToPrevious": 9,
+					"arrivalTime": "14:34",
+					"drivingTimeFromPrevious": 10
 				},
 				{
 					"stopId": "stop_36",
-					"distanceToPrevious": 8,
-					"arrivalTime": "14:51"
+					"distanceToPrevious": 9,
+					"arrivalTime": "14:45",
+					"drivingTimeFromPrevious": 11
 				},
 				{
 					"stopId": "stop_37",
-					"distanceToPrevious": 9,
-					"arrivalTime": "15:02"
+					"distanceToPrevious": 7,
+					"arrivalTime": "14:53",
+					"drivingTimeFromPrevious": 8
 				},
 				{
 					"stopId": "stop_38",
-					"distanceToPrevious": 9,
-					"arrivalTime": "15:12"
+					"distanceToPrevious": 14,
+					"arrivalTime": "15:08",
+					"drivingTimeFromPrevious": 15
 				},
 				{
 					"stopId": "stop_39",
-					"distanceToPrevious": 12,
-					"arrivalTime": "15:26"
+					"distanceToPrevious": 10,
+					"arrivalTime": "15:19",
+					"drivingTimeFromPrevious": 11
 				},
 				{
 					"stopId": "stop_40",
-					"distanceToPrevious": 8,
-					"arrivalTime": "15:35"
+					"distanceToPrevious": 12,
+					"arrivalTime": "15:32",
+					"drivingTimeFromPrevious": 13
 				},
 				{
 					"stopId": "stop_41",
-					"distanceToPrevious": 7,
-					"arrivalTime": "15:43"
+					"distanceToPrevious": 8,
+					"arrivalTime": "15:41",
+					"drivingTimeFromPrevious": 9
 				},
 				{
 					"stopId": "stop_42",
-					"distanceToPrevious": 14,
-					"arrivalTime": "16:01"
+					"distanceToPrevious": 11,
+					"arrivalTime": "15:53",
+					"drivingTimeFromPrevious": 12
 				},
 				{
 					"stopId": "stop_43",
-					"distanceToPrevious": 12,
-					"arrivalTime": "16:16"
+					"distanceToPrevious": 11,
+					"arrivalTime": "16:06",
+					"drivingTimeFromPrevious": 13
 				},
 				{
 					"stopId": "stop_44",
-					"distanceToPrevious": 6,
-					"arrivalTime": "16:23"
+					"distanceToPrevious": 9,
+					"arrivalTime": "16:17",
+					"drivingTimeFromPrevious": 11
 				},
 				{
 					"stopId": "stop_45",
-					"distanceToPrevious": 9,
-					"arrivalTime": "16:34"
+					"distanceToPrevious": 12,
+					"arrivalTime": "16:30",
+					"drivingTimeFromPrevious": 13
+				},
+				{
+					"stopId": "stop_46",
+					"distanceToPrevious": 10,
+					"arrivalTime": "16:42",
+					"drivingTimeFromPrevious": 12
 				}
 			]
 		},
@@ -1798,218 +1997,315 @@
 				},
 				{
 					"stopId": "stop_0",
-					"distanceToPrevious": 7,
-					"arrivalTime": "08:07"
+					"distanceToPrevious": 6,
+					"arrivalTime": "08:06",
+					"drivingTimeFromPrevious": 6
 				},
 				{
 					"stopId": "stop_1",
-					"distanceToPrevious": 8,
-					"arrivalTime": "08:17"
+					"distanceToPrevious": 6,
+					"arrivalTime": "08:13",
+					"drivingTimeFromPrevious": 7
 				},
 				{
 					"stopId": "stop_2",
-					"distanceToPrevious": 10,
-					"arrivalTime": "08:29"
+					"distanceToPrevious": 7,
+					"arrivalTime": "08:21",
+					"drivingTimeFromPrevious": 8
 				},
 				{
 					"stopId": "stop_3",
-					"distanceToPrevious": 6,
-					"arrivalTime": "08:35"
+					"distanceToPrevious": 7,
+					"arrivalTime": "08:30",
+					"drivingTimeFromPrevious": 9
 				},
 				{
 					"stopId": "stop_4",
-					"distanceToPrevious": 8,
-					"arrivalTime": "08:44"
+					"distanceToPrevious": 3,
+					"arrivalTime": "08:33",
+					"drivingTimeFromPrevious": 3
 				},
 				{
 					"stopId": "stop_5",
-					"distanceToPrevious": 6,
-					"arrivalTime": "08:50"
+					"distanceToPrevious": 8,
+					"arrivalTime": "08:43",
+					"drivingTimeFromPrevious": 10
 				},
 				{
 					"stopId": "stop_6",
-					"distanceToPrevious": 5,
-					"arrivalTime": "08:56"
+					"distanceToPrevious": 6,
+					"arrivalTime": "08:50",
+					"drivingTimeFromPrevious": 7
 				},
 				{
 					"stopId": "stop_7",
-					"distanceToPrevious": 8,
-					"arrivalTime": "09:05"
+					"distanceToPrevious": 7,
+					"arrivalTime": "08:58",
+					"drivingTimeFromPrevious": 8
 				},
 				{
 					"stopId": "stop_8",
-					"distanceToPrevious": 8,
-					"arrivalTime": "09:14"
+					"distanceToPrevious": 7,
+					"arrivalTime": "09:06",
+					"drivingTimeFromPrevious": 8
 				},
 				{
 					"stopId": "stop_9",
-					"distanceToPrevious": 5,
-					"arrivalTime": "09:20"
+					"distanceToPrevious": 9,
+					"arrivalTime": "09:15",
+					"drivingTimeFromPrevious": 9
 				},
 				{
 					"stopId": "stop_10",
-					"distanceToPrevious": 7,
-					"arrivalTime": "09:28"
+					"distanceToPrevious": 8,
+					"arrivalTime": "09:25",
+					"drivingTimeFromPrevious": 10
 				},
 				{
 					"stopId": "stop_11",
-					"distanceToPrevious": 7,
-					"arrivalTime": "09:37"
+					"distanceToPrevious": 6,
+					"arrivalTime": "09:32",
+					"drivingTimeFromPrevious": 7
 				},
 				{
 					"stopId": "stop_12",
-					"distanceToPrevious": 9,
-					"arrivalTime": "09:47"
+					"distanceToPrevious": 8,
+					"arrivalTime": "09:41",
+					"drivingTimeFromPrevious": 9
 				},
 				{
 					"stopId": "stop_13",
 					"distanceToPrevious": 7,
-					"arrivalTime": "09:54"
+					"arrivalTime": "09:49",
+					"drivingTimeFromPrevious": 8
 				},
 				{
 					"stopId": "stop_14",
-					"distanceToPrevious": 9,
-					"arrivalTime": "10:05"
+					"distanceToPrevious": 5,
+					"arrivalTime": "09:54",
+					"drivingTimeFromPrevious": 5
 				},
 				{
 					"stopId": "stop_15",
 					"distanceToPrevious": 8,
-					"arrivalTime": "10:14"
+					"arrivalTime": "10:04",
+					"drivingTimeFromPrevious": 10
 				},
 				{
 					"stopId": "stop_16",
-					"distanceToPrevious": 6,
-					"arrivalTime": "10:21"
+					"distanceToPrevious": 10,
+					"arrivalTime": "10:15",
+					"drivingTimeFromPrevious": 11
 				},
 				{
 					"stopId": "stop_17",
-					"distanceToPrevious": 7,
-					"arrivalTime": "10:30"
+					"distanceToPrevious": 8,
+					"arrivalTime": "10:24",
+					"drivingTimeFromPrevious": 9
 				},
 				{
 					"stopId": "stop_18",
-					"distanceToPrevious": 8,
-					"arrivalTime": "10:39"
+					"distanceToPrevious": 7,
+					"arrivalTime": "10:32",
+					"drivingTimeFromPrevious": 8
 				},
 				{
 					"stopId": "stop_19",
-					"distanceToPrevious": 7,
-					"arrivalTime": "10:47"
+					"distanceToPrevious": 8,
+					"arrivalTime": "10:42",
+					"drivingTimeFromPrevious": 10
 				},
 				{
 					"stopId": "stop_20",
-					"distanceToPrevious": 8,
-					"arrivalTime": "10:56"
+					"distanceToPrevious": 10,
+					"arrivalTime": "10:54",
+					"drivingTimeFromPrevious": 12
 				},
 				{
 					"stopId": "stop_21",
 					"distanceToPrevious": 8,
-					"arrivalTime": "11:06"
+					"arrivalTime": "11:03",
+					"drivingTimeFromPrevious": 9
 				},
 				{
 					"stopId": "stop_22",
-					"distanceToPrevious": 10,
-					"arrivalTime": "11:18"
+					"distanceToPrevious": 6,
+					"arrivalTime": "11:09",
+					"drivingTimeFromPrevious": 6
 				},
 				{
 					"stopId": "stop_23",
-					"distanceToPrevious": 5,
-					"arrivalTime": "11:23"
+					"distanceToPrevious": 8,
+					"arrivalTime": "11:19",
+					"drivingTimeFromPrevious": 10
 				},
 				{
 					"stopId": "stop_24",
-					"distanceToPrevious": 7,
-					"arrivalTime": "11:31"
+					"distanceToPrevious": 8,
+					"arrivalTime": "11:27",
+					"drivingTimeFromPrevious": 8
 				},
 				{
 					"stopId": "stop_25",
-					"distanceToPrevious": 6,
-					"arrivalTime": "11:38"
+					"distanceToPrevious": 8,
+					"arrivalTime": "11:35",
+					"drivingTimeFromPrevious": 8
 				},
 				{
 					"stopId": "stop_26",
-					"distanceToPrevious": 8,
-					"arrivalTime": "11:47"
+					"distanceToPrevious": 6,
+					"arrivalTime": "11:42",
+					"drivingTimeFromPrevious": 7
 				},
 				{
 					"stopId": "stop_27",
-					"distanceToPrevious": 8,
-					"arrivalTime": "11:56"
+					"distanceToPrevious": 9,
+					"arrivalTime": "11:53",
+					"drivingTimeFromPrevious": 11
 				},
 				{
 					"stopId": "stop_28",
-					"distanceToPrevious": 6,
-					"arrivalTime": "12:03"
+					"distanceToPrevious": 5,
+					"arrivalTime": "11:59",
+					"drivingTimeFromPrevious": 6
 				},
 				{
 					"stopId": "stop_29",
-					"distanceToPrevious": 8,
-					"arrivalTime": "12:13"
+					"distanceToPrevious": 10,
+					"arrivalTime": "12:10",
+					"drivingTimeFromPrevious": 11
 				},
 				{
 					"stopId": "stop_30",
-					"distanceToPrevious": 5,
-					"arrivalTime": "12:19"
+					"distanceToPrevious": 7,
+					"arrivalTime": "12:18",
+					"drivingTimeFromPrevious": 8
 				},
 				{
 					"stopId": "stop_31",
-					"distanceToPrevious": 9,
-					"arrivalTime": "12:29"
+					"distanceToPrevious": 7,
+					"arrivalTime": "12:26",
+					"drivingTimeFromPrevious": 8
 				},
 				{
 					"stopId": "stop_32",
 					"distanceToPrevious": 11,
-					"arrivalTime": "12:41"
+					"arrivalTime": "12:39",
+					"drivingTimeFromPrevious": 13
 				},
 				{
 					"stopId": "stop_33",
-					"distanceToPrevious": 6,
-					"arrivalTime": "12:48"
+					"distanceToPrevious": 7,
+					"arrivalTime": "12:47",
+					"drivingTimeFromPrevious": 8
 				},
 				{
 					"stopId": "stop_34",
-					"distanceToPrevious": 6,
-					"arrivalTime": "12:54"
+					"distanceToPrevious": 8,
+					"arrivalTime": "12:56",
+					"drivingTimeFromPrevious": 9
 				},
 				{
 					"stopId": "stop_35",
-					"distanceToPrevious": 8,
-					"arrivalTime": "13:03"
+					"distanceToPrevious": 6,
+					"arrivalTime": "13:03",
+					"drivingTimeFromPrevious": 7
 				},
 				{
 					"stopId": "stop_36",
-					"distanceToPrevious": 9,
-					"arrivalTime": "13:14"
+					"distanceToPrevious": 6,
+					"arrivalTime": "13:09",
+					"drivingTimeFromPrevious": 6
 				},
 				{
 					"stopId": "stop_37",
 					"distanceToPrevious": 9,
-					"arrivalTime": "13:25"
+					"arrivalTime": "13:20",
+					"drivingTimeFromPrevious": 11
 				},
 				{
 					"stopId": "stop_38",
-					"distanceToPrevious": 8,
-					"arrivalTime": "13:33"
+					"distanceToPrevious": 10,
+					"arrivalTime": "13:30",
+					"drivingTimeFromPrevious": 10
 				},
 				{
 					"stopId": "stop_39",
-					"distanceToPrevious": 7,
-					"arrivalTime": "13:40"
+					"distanceToPrevious": 9,
+					"arrivalTime": "13:41",
+					"drivingTimeFromPrevious": 11
 				},
 				{
 					"stopId": "stop_40",
-					"distanceToPrevious": 9,
-					"arrivalTime": "13:50"
+					"distanceToPrevious": 8,
+					"arrivalTime": "13:51",
+					"drivingTimeFromPrevious": 10
 				},
 				{
 					"stopId": "stop_41",
-					"distanceToPrevious": 11,
-					"arrivalTime": "14:04"
+					"distanceToPrevious": 9,
+					"arrivalTime": "14:02",
+					"drivingTimeFromPrevious": 11
 				},
 				{
 					"stopId": "stop_42",
+					"distanceToPrevious": 8,
+					"arrivalTime": "14:12",
+					"drivingTimeFromPrevious": 10
+				},
+				{
+					"stopId": "stop_43",
+					"distanceToPrevious": 8,
+					"arrivalTime": "14:21",
+					"drivingTimeFromPrevious": 9
+				},
+				{
+					"stopId": "stop_44",
+					"distanceToPrevious": 6,
+					"arrivalTime": "14:28",
+					"drivingTimeFromPrevious": 7
+				},
+				{
+					"stopId": "stop_45",
 					"distanceToPrevious": 9,
-					"arrivalTime": "14:14"
+					"arrivalTime": "14:38",
+					"drivingTimeFromPrevious": 10
+				},
+				{
+					"stopId": "stop_46",
+					"distanceToPrevious": 5,
+					"arrivalTime": "14:43",
+					"drivingTimeFromPrevious": 5
+				},
+				{
+					"stopId": "stop_47",
+					"distanceToPrevious": 8,
+					"arrivalTime": "14:53",
+					"drivingTimeFromPrevious": 10
+				},
+				{
+					"stopId": "stop_48",
+					"distanceToPrevious": 5,
+					"arrivalTime": "14:59",
+					"drivingTimeFromPrevious": 6
+				},
+				{
+					"stopId": "stop_49",
+					"distanceToPrevious": 5,
+					"arrivalTime": "15:05",
+					"drivingTimeFromPrevious": 6
+				},
+				{
+					"stopId": "stop_50",
+					"distanceToPrevious": 7,
+					"arrivalTime": "15:13",
+					"drivingTimeFromPrevious": 8
+				},
+				{
+					"stopId": "stop_51",
+					"distanceToPrevious": 11,
+					"arrivalTime": "15:25",
+					"drivingTimeFromPrevious": 12
 				}
 			]
 		},
@@ -2022,213 +2318,195 @@
 				},
 				{
 					"stopId": "stop_0",
-					"distanceToPrevious": 11,
-					"arrivalTime": "08:12"
+					"distanceToPrevious": 13,
+					"arrivalTime": "08:16",
+					"drivingTimeFromPrevious": 16
 				},
 				{
 					"stopId": "stop_1",
-					"distanceToPrevious": 12,
-					"arrivalTime": "08:26"
+					"distanceToPrevious": 11,
+					"arrivalTime": "08:30",
+					"drivingTimeFromPrevious": 14
 				},
 				{
 					"stopId": "stop_2",
-					"distanceToPrevious": 9,
-					"arrivalTime": "08:37"
+					"distanceToPrevious": 12,
+					"arrivalTime": "08:43",
+					"drivingTimeFromPrevious": 13
 				},
 				{
 					"stopId": "stop_3",
-					"distanceToPrevious": 12,
-					"arrivalTime": "08:51"
+					"distanceToPrevious": 13,
+					"arrivalTime": "08:59",
+					"drivingTimeFromPrevious": 16
 				},
 				{
 					"stopId": "stop_4",
-					"distanceToPrevious": 12,
-					"arrivalTime": "09:04"
+					"distanceToPrevious": 15,
+					"arrivalTime": "09:18",
+					"drivingTimeFromPrevious": 19
 				},
 				{
 					"stopId": "stop_5",
-					"distanceToPrevious": 16,
-					"arrivalTime": "09:24"
+					"distanceToPrevious": 13,
+					"arrivalTime": "09:32",
+					"drivingTimeFromPrevious": 14
 				},
 				{
 					"stopId": "stop_6",
-					"distanceToPrevious": 12,
-					"arrivalTime": "09:37"
+					"distanceToPrevious": 10,
+					"arrivalTime": "09:43",
+					"drivingTimeFromPrevious": 11
 				},
 				{
 					"stopId": "stop_7",
-					"distanceToPrevious": 10,
-					"arrivalTime": "09:49"
+					"distanceToPrevious": 13,
+					"arrivalTime": "09:57",
+					"drivingTimeFromPrevious": 14
 				},
 				{
 					"stopId": "stop_8",
 					"distanceToPrevious": 13,
-					"arrivalTime": "10:03"
+					"arrivalTime": "10:11",
+					"drivingTimeFromPrevious": 14
 				},
 				{
 					"stopId": "stop_9",
-					"distanceToPrevious": 16,
-					"arrivalTime": "10:21"
+					"distanceToPrevious": 14,
+					"arrivalTime": "10:27",
+					"drivingTimeFromPrevious": 16
 				},
 				{
 					"stopId": "stop_10",
-					"distanceToPrevious": 13,
-					"arrivalTime": "10:37"
+					"distanceToPrevious": 14,
+					"arrivalTime": "10:43",
+					"drivingTimeFromPrevious": 16
 				},
 				{
 					"stopId": "stop_11",
 					"distanceToPrevious": 12,
-					"arrivalTime": "10:52"
+					"arrivalTime": "10:56",
+					"drivingTimeFromPrevious": 13
 				},
 				{
 					"stopId": "stop_12",
-					"distanceToPrevious": 20,
-					"arrivalTime": "11:14"
+					"distanceToPrevious": 10,
+					"arrivalTime": "11:06",
+					"drivingTimeFromPrevious": 10
 				},
 				{
 					"stopId": "stop_13",
-					"distanceToPrevious": 12,
-					"arrivalTime": "11:26"
+					"distanceToPrevious": 10,
+					"arrivalTime": "11:17",
+					"drivingTimeFromPrevious": 11
 				},
 				{
 					"stopId": "stop_14",
-					"distanceToPrevious": 15,
-					"arrivalTime": "11:45"
+					"distanceToPrevious": 13,
+					"arrivalTime": "11:31",
+					"drivingTimeFromPrevious": 14
 				},
 				{
 					"stopId": "stop_15",
-					"distanceToPrevious": 11,
-					"arrivalTime": "11:57"
+					"distanceToPrevious": 12,
+					"arrivalTime": "11:44",
+					"drivingTimeFromPrevious": 13
 				},
 				{
 					"stopId": "stop_16",
-					"distanceToPrevious": 14,
-					"arrivalTime": "12:12"
+					"distanceToPrevious": 17,
+					"arrivalTime": "12:03",
+					"drivingTimeFromPrevious": 19
 				},
 				{
 					"stopId": "stop_17",
-					"distanceToPrevious": 9,
-					"arrivalTime": "12:22"
+					"distanceToPrevious": 11,
+					"arrivalTime": "12:16",
+					"drivingTimeFromPrevious": 13
 				},
 				{
 					"stopId": "stop_18",
-					"distanceToPrevious": 12,
-					"arrivalTime": "12:35"
+					"distanceToPrevious": 13,
+					"arrivalTime": "12:31",
+					"drivingTimeFromPrevious": 15
 				},
 				{
 					"stopId": "stop_19",
-					"distanceToPrevious": 15,
-					"arrivalTime": "12:52"
+					"distanceToPrevious": 10,
+					"arrivalTime": "12:42",
+					"drivingTimeFromPrevious": 11
 				},
 				{
 					"stopId": "stop_20",
-					"distanceToPrevious": 17,
-					"arrivalTime": "13:14"
+					"distanceToPrevious": 11,
+					"arrivalTime": "12:55",
+					"drivingTimeFromPrevious": 13
 				},
 				{
 					"stopId": "stop_21",
-					"distanceToPrevious": 13,
-					"arrivalTime": "13:30"
+					"distanceToPrevious": 15,
+					"arrivalTime": "13:13",
+					"drivingTimeFromPrevious": 18
 				},
 				{
 					"stopId": "stop_22",
 					"distanceToPrevious": 13,
-					"arrivalTime": "13:44"
+					"arrivalTime": "13:30",
+					"drivingTimeFromPrevious": 17
 				},
 				{
 					"stopId": "stop_23",
-					"distanceToPrevious": 11,
-					"arrivalTime": "13:58"
+					"distanceToPrevious": 16,
+					"arrivalTime": "13:48",
+					"drivingTimeFromPrevious": 18
 				},
 				{
 					"stopId": "stop_24",
-					"distanceToPrevious": 15,
-					"arrivalTime": "14:15"
+					"distanceToPrevious": 11,
+					"arrivalTime": "14:00",
+					"drivingTimeFromPrevious": 12
 				},
 				{
 					"stopId": "stop_25",
-					"distanceToPrevious": 13,
-					"arrivalTime": "14:31"
+					"distanceToPrevious": 12,
+					"arrivalTime": "14:13",
+					"drivingTimeFromPrevious": 13
 				},
 				{
 					"stopId": "stop_26",
-					"distanceToPrevious": 11,
-					"arrivalTime": "14:43"
+					"distanceToPrevious": 13,
+					"arrivalTime": "14:29",
+					"drivingTimeFromPrevious": 16
 				},
 				{
 					"stopId": "stop_27",
-					"distanceToPrevious": 7,
-					"arrivalTime": "14:50"
+					"distanceToPrevious": 12,
+					"arrivalTime": "14:42",
+					"drivingTimeFromPrevious": 13
 				},
 				{
 					"stopId": "stop_28",
 					"distanceToPrevious": 11,
-					"arrivalTime": "15:03"
+					"arrivalTime": "14:55",
+					"drivingTimeFromPrevious": 13
 				},
 				{
 					"stopId": "stop_29",
-					"distanceToPrevious": 9,
-					"arrivalTime": "15:12"
+					"distanceToPrevious": 13,
+					"arrivalTime": "15:09",
+					"drivingTimeFromPrevious": 14
 				},
 				{
 					"stopId": "stop_30",
 					"distanceToPrevious": 12,
-					"arrivalTime": "15:26"
+					"arrivalTime": "15:22",
+					"drivingTimeFromPrevious": 13
 				},
 				{
 					"stopId": "stop_31",
-					"distanceToPrevious": 8,
-					"arrivalTime": "15:34"
-				},
-				{
-					"stopId": "stop_32",
-					"distanceToPrevious": 10,
-					"arrivalTime": "15:45"
-				},
-				{
-					"stopId": "stop_33",
-					"distanceToPrevious": 11,
-					"arrivalTime": "15:57"
-				},
-				{
-					"stopId": "stop_34",
-					"distanceToPrevious": 15,
-					"arrivalTime": "16:13"
-				},
-				{
-					"stopId": "stop_35",
-					"distanceToPrevious": 14,
-					"arrivalTime": "16:30"
-				},
-				{
-					"stopId": "stop_36",
-					"distanceToPrevious": 11,
-					"arrivalTime": "16:43"
-				},
-				{
-					"stopId": "stop_37",
 					"distanceToPrevious": 13,
-					"arrivalTime": "16:59"
-				},
-				{
-					"stopId": "stop_38",
-					"distanceToPrevious": 12,
-					"arrivalTime": "17:12"
-				},
-				{
-					"stopId": "stop_39",
-					"distanceToPrevious": 13,
-					"arrivalTime": "17:26"
-				},
-				{
-					"stopId": "stop_40",
-					"distanceToPrevious": 15,
-					"arrivalTime": "17:42"
-				},
-				{
-					"stopId": "stop_41",
-					"distanceToPrevious": 10,
-					"arrivalTime": "17:54"
+					"arrivalTime": "15:38",
+					"drivingTimeFromPrevious": 16
 				}
 			]
 		}
