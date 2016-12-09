@@ -1,30 +1,35 @@
 angular.module('app', [])
 .component('app', {
-template: `
-  <div class="list-title">
-    <div>Name</div>
-    <div>Total Distance</div>
-    <div>Total Time</div>
-    <div>Avg Speed</div>
-  </div>
-    <ul>
-      <li ng-repeat="driver in $ctrl.data track by $index">
-
-      <div class="list-row">
-        <div class="driver name">{{ driver.name }}</div>
-        <div class="driver total-distance">{{ driver.totalDistance }}</div>
-        <div class="driver total-time">{{ driver.totalTime }}</div>
-        <div class="driver avg-speed">{{ (driver.totalDistance / driver.totalTime) * 60 }}</div>
-      </div>
-      </li>
-    </ul>`,
-  controller: ['$scope', 'dataService', function($scope, dataService) {
+  template: `
+    <driver-list open="$ctrl.openDriverCard(id)" data="$ctrl.data"></driver-list>
+    <div ng-if="$ctrl.driverCard.showCard" class="driver-card-bg">
+      <driver-card driver="$ctrl.driverCard" close="$ctrl.closeDriverCard()"></driver-card>
+    </div>
+  `,
+  controller: ['dataService', function(dataService) {
     var vm = this;
     vm.data = [];
+
+    vm.driverCard = {
+      showRoute: false,
+      showCard: false,
+      data: {}
+    }
+
+    vm.$onInit = function() {
       dataService.init().then(function(result) {
           vm.data = result;
       });
+
+      vm.openDriverCard = function(id) {
+        vm.driverCard.showCard = true;
+        vm.driverCard.data = vm.data[id];
+      }
+
+      vm.closeDriverCard = function() {
+        vm.driverCard.showCard = false;
+      }
+
+    }
   }]
 })
-
-
