@@ -15,7 +15,7 @@ angular.module('app')
   }
 
   var _getDailyStats = function(route) {
-    console.log(route)
+ 
       var total = route.reduce(function(prev, cur) {
        prev["totalTime"] += (cur["drivingTimeFromPrevious"] || 0);
     
@@ -32,7 +32,7 @@ angular.module('app')
 
   function aggregate() {
     var response = {}
-    getDrivers()
+    return getDrivers()
     .then(function(result) {
       var aggreDriver = result.forEach(function(driverItem) {
           response[driverItem.id] = driverItem;
@@ -62,11 +62,9 @@ angular.module('app')
             driver.totalDistance += dailyStats.totalDistance
         });
 
-        console.log('routesForDay', routesForDay);
+
       });
 
-      console.log("Aggregate");
-      console.log(response);
       return response
     })
   }
@@ -74,6 +72,9 @@ angular.module('app')
   return {
     init: function() {
       return aggregate();
+    },
+    test: function() {
+      console.log('hi')
     }
   }
 }])
