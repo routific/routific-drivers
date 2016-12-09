@@ -46,7 +46,7 @@ angular.module('app')
     })
     .then(function(routeResults) {
       routeResults.forEach(function(routesForDay) {
-        date = routesForDay.day;
+        date = routesForDay.date;
         routesForDay.routes.forEach(function(routeItem) {
             driver = response[routeItem.driverId]
             dailyStats = _getDailyStats(routeItem.route)
