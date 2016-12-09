@@ -2,13 +2,13 @@ angular.module('app')
 .factory('dataService', ['$http', function($http) {
 
  function getDrivers() {
-    return $http.get('data/drivers.json')
+    return $http({method:'get', url: 'data/drivers.json'})
       .then(function(res){
         return res.data;
       })
   }
   function getRoutes(date) {
-    return $http('data/' + date + '.json')
+    return $http({method:'get', url:'data/' + date + '.json'})
       .then(function(res){
         return res.data;
       })
@@ -16,8 +16,8 @@ angular.module('app')
 
   var _getDailyStats = function(route) {
       var total = route.reduce(function(prev, cur) {
-         prev[totalTime] += cur[drivingTimeFromPrevious];
-         prev[totalDistance] += cur[distanceToPrevious];
+         prev["totalTime"] += cur["drivingTimeFromPrevious"];
+         prev["totalDistance"] += cur["distanceToPrevious"];
          return prev;
       }, {
           totalTime: 0,
@@ -46,7 +46,6 @@ angular.module('app')
     })
     .then(function(routeResults) {
       routeResults.forEach(function(routesForDay) {
-        routesForDay = getRoutesForDay(day);
         date = routesForDay.day;
         routesForDay.routes.forEach(function(routeItem) {
             driver = response[routeItem.driverId]
@@ -56,6 +55,8 @@ angular.module('app')
             driver.totalDistance += dailyStats.totalDistance
         });
       });
+      
+      console.log("Aggregate");
       console.log(response);
       return response
     })
