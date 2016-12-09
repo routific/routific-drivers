@@ -15,9 +15,12 @@ angular.module('app')
   }
 
   var _getDailyStats = function(route) {
+    console.log(route)
       var total = route.reduce(function(prev, cur) {
-         prev["totalTime"] += cur["drivingTimeFromPrevious"];
-         prev["totalDistance"] += cur["distanceToPrevious"];
+       prev["totalTime"] += (cur["drivingTimeFromPrevious"] || 0);
+    
+         
+         prev["totalDistance"] += (cur["distanceToPrevious"] || 0);
          return prev;
       }, {
           totalTime: 0,
@@ -45,17 +48,23 @@ angular.module('app')
       return Promise.all(routePromises);
     })
     .then(function(routeResults) {
+
+
       routeResults.forEach(function(routesForDay) {
-        date = routesForDay.day;
+        date = routesForDay.date;
         routesForDay.routes.forEach(function(routeItem) {
-            driver = response[routeItem.driverId]
-            dailyStats = _getDailyStats(routeItem.route)
+
+            var driver = response[routeItem.driverId]
+
+            var dailyStats = _getDailyStats(routeItem.route)
             driver.daily[date] = dailyStats
             driver.totalTime += dailyStats.totalTime
             driver.totalDistance += dailyStats.totalDistance
         });
+
+        console.log('routesForDay', routesForDay);
       });
-      
+
       console.log("Aggregate");
       console.log(response);
       return response
